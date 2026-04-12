@@ -1,0 +1,1001 @@
+﻿pedido_id,restaurante_id,nome_estabelecimento,categoria,item_principal,qtd_itens,preco_item,desconto,preco_pedido,distancia_km,taxa_entrega,tempo_entrega_min,nota_cliente
+P0001,R001,Armazém da Coxinha Clandestino,Doces,bolo de pote,1,41.69,0,41.69,7.31,5.88,61,3.3
+P0002,R001,Armazém da Coxinha Clandestino,Doces,bolo de pote,1,54.88,0,57.88,8.19,5.05,58,3.7
+P0003,R001,Armazém da Coxinha Clandestino,Doces,cookie,2,37.06,5,69.12,4.99,5.04,36,3.2
+P0004,R001,Armazém da Coxinha Clandestino,Doces,bolo de pote,1,42.93,5,41.93,6.07,4.86,50,3.8
+P0005,R001,Armazém da Coxinha Clandestino,Doces,pudim,3,55.68,0,169.04,7.18,4.75,67,3.4
+P0006,R001,Armazém da Coxinha Clandestino,Doces,bolo de pote,2,37.62,3,72.24,8.89,4.98,44,3.9
+P0007,R001,Armazém da Coxinha Clandestino,Doces,cookie,5,50.67,3,250.35,6.23,4.77,43,3.3
+P0008,R001,Armazém da Coxinha Clandestino,Doces,cookie,1,58.62,0,62.62,3.83,5.1,40,3.6
+P0009,R001,Armazém da Coxinha Clandestino,Doces,brigadeiro,4,56.44,5,220.76,7.73,4.86,57,3.6
+P0010,R001,Armazém da Coxinha Clandestino,Doces,bolo de pote,2,41.78,3,82.06,6.35,4.21,52,2.5
+P0011,R001,Armazém da Coxinha Clandestino,Doces,pudim,1,37.27,5,32.27,7.91,4.12,56,3.0
+P0012,R002,Armazém da Neblina Elétrico,Pizza,fatia de calabresa,2,31.97,0,63.94,6.16,8.28,54,3.3
+P0013,R002,Armazém da Neblina Elétrico,Pizza,fatia marguerita,1,34.11,0,34.11,3.47,3.46,47,4.0
+P0014,R002,Armazém da Neblina Elétrico,Pizza,fatia de calabresa,1,51.59,2,51.09,4.45,4.96,46,3.8
+P0015,R002,Armazém da Neblina Elétrico,Pizza,pizza média,3,31.88,0,97.64,2.79,5.09,29,2.2
+P0016,R002,Armazém da Neblina Elétrico,Pizza,fatia de calabresa,3,43.54,0,132.12,3.21,5.71,32,4.6
+P0017,R002,Armazém da Neblina Elétrico,Pizza,pizza média,2,42.06,0,87.12,3.58,6.75,39,3.9
+P0018,R002,Armazém da Neblina Elétrico,Pizza,pizza média,2,44.05,0,88.1,1.13,2.72,32,4.5
+P0019,R002,Armazém da Neblina Elétrico,Pizza,pizza média,1,52.27,2,50.27,4.18,6.91,47,4.1
+P0020,R002,Armazém da Neblina Elétrico,Pizza,pizza média,1,35.72,0,35.72,5.69,5.64,47,3.5
+P0021,R002,Armazém da Neblina Elétrico,Pizza,fatia marguerita,2,41.92,3,82.34,2.24,7.71,42,3.7
+P0022,R002,Armazém da Neblina Elétrico,Pizza,fatia marguerita,1,45.39,2,44.89,4.49,7.03,29,3.9
+P0023,R002,Armazém da Neblina Elétrico,Pizza,pizza brotinho,2,37.77,2,73.54,3.21,4.05,40,4.5
+P0024,R003,Armazém da Neblina Profundo,Açaí,açaí 500ml,1,16.34,3,15.34,0.26,5.99,36,4.4
+P0025,R003,Armazém da Neblina Profundo,Açaí,salada de frutas,2,14.97,5,24.94,0.47,4.93,24,4.0
+P0026,R003,Armazém da Neblina Profundo,Açaí,açaí 300ml,2,11.77,3,20.54,3.11,5.88,39,1.9
+P0027,R003,Armazém da Neblina Profundo,Açaí,vitamina,1,12.54,0,12.54,1.2,6.82,32,4.0
+P0028,R003,Armazém da Neblina Profundo,Açaí,açaí 500ml,2,9.67,0,19.34,1.9,4.33,37,3.7
+P0029,R003,Armazém da Neblina Profundo,Açaí,salada de frutas,1,11.08,3,8.08,1.87,6.17,48,3.2
+P0030,R003,Armazém da Neblina Profundo,Açaí,açaí 300ml,4,13.45,0,53.8,0.2,3.47,31,3.9
+P0031,R003,Armazém da Neblina Profundo,Açaí,salada de frutas,2,12.95,3,22.9,2.7,6.05,16,4.6
+P0032,R003,Armazém da Neblina Profundo,Açaí,açaí 500ml,3,13.4,2,41.2,0.56,1.28,18,4.4
+P0033,R003,Armazém da Neblina Profundo,Açaí,salada de frutas,2,9.99,0,19.98,2.37,4.78,26,4.1
+P0034,R004,Armazém da Pimenta Afiado,Café,pão de queijo,1,25.87,0,27.87,5.52,10.81,46,3.1
+P0035,R004,Armazém da Pimenta Afiado,Café,cappuccino,2,20.91,0,43.82,7.82,12.61,65,3.5
+P0036,R004,Armazém da Pimenta Afiado,Café,croissant,5,24.38,0,124.9,7.27,9.92,49,3.5
+P0037,R004,Armazém da Pimenta Afiado,Café,pão de queijo,3,26.13,0,80.39,9.41,13.3,67,3.5
+P0038,R004,Armazém da Pimenta Afiado,Café,cappuccino,2,27.3,2,52.6,7.01,12.29,48,4.0
+P0039,R004,Armazém da Pimenta Afiado,Café,pão de queijo,4,19.34,5,72.36,7.17,11.46,57,3.5
+P0040,R004,Armazém da Pimenta Afiado,Café,croissant,2,18.84,0,37.68,9.84,12.45,60,4.0
+P0041,R004,Armazém da Pimenta Afiado,Café,pão de queijo,1,24.94,2,25.94,9.06,13.38,64,3.8
+P0042,R004,Armazém da Pimenta Afiado,Café,cappuccino,4,23.0,0,92.0,7.54,8.22,51,3.7
+P0043,R004,Armazém da Pimenta Afiado,Café,pão de queijo,1,19.92,5,18.92,6.45,11.84,164,4.4
+P0044,R004,Armazém da Pimenta Afiado,Café,pão de queijo,4,21.77,0,90.08,5.22,9.08,46,3.6
+P0045,R004,Armazém da Pimenta Afiado,Café,pão de queijo,1,27.46,2,25.46,6.36,12.05,42,4.6
+P0046,R005,Armazém do Abacaxi Honesto,Marmita,marmita fitness,3,38.93,0,118.79,5.51,9.39,48,3.4
+P0047,R005,Armazém do Abacaxi Honesto,Marmita,prato executivo,4,39.26,0,157.04,4.5,13.75,30,3.4
+P0048,R005,Armazém do Abacaxi Honesto,Marmita,marmita P,2,34.8,0,69.6,6.04,11.01,54,3.7
+P0049,R005,Armazém do Abacaxi Honesto,Marmita,marmita fitness,1,32.76,3,29.76,3.4,10.23,45,3.6
+P0050,R005,Armazém do Abacaxi Honesto,Marmita,marmita P,3,36.61,3,110.83,6.2,12.31,49,2.9
+P0051,R005,Armazém do Abacaxi Honesto,Marmita,marmita M,1,39.83,0,41.83,6.18,11.91,53,3.3
+P0052,R005,Armazém do Abacaxi Honesto,Marmita,marmita P,5,39.06,5,190.3,5.03,10.44,63,3.4
+P0053,R005,Armazém do Abacaxi Honesto,Marmita,marmita fitness,3,28.74,2,85.72,6.44,11.81,28,4.3
+P0054,R005,Armazém do Abacaxi Honesto,Marmita,marmita fitness,2,32.44,2,62.88,4.27,12.14,48,3.6
+P0055,R005,Armazém do Abacaxi Honesto,Marmita,marmita M,2,26.4,0,56.8,5.23,12.6,40,4.1
+P0056,R005,Armazém do Abacaxi Honesto,Marmita,marmita M,2,33.42,0,68.34,4.54,12.76,55,3.2
+P0057,R005,Armazém do Abacaxi Honesto,Marmita,marmita fitness,1,24.22,5,22.22,5.71,12.43,33,4.0
+P0058,R006,Armazém do Cometa Sagrado,Hambúrguer,x-bacon,4,34.2,0,140.8,0.2,5.89,217,3.6
+P0059,R006,Armazém do Cometa Sagrado,Hambúrguer,batata frita,4,48.87,3,195.48,0.81,5.7,19,4.5
+P0060,R006,Armazém do Cometa Sagrado,Hambúrguer,x-burger,4,36.19,0,144.76,0.46,6.21,27,4.5
+P0061,R006,Armazém do Cometa Sagrado,Hambúrguer,x-salada,1,46.69,0,48.19,0.2,6.43,8,5.0
+P0062,R006,Armazém do Cometa Sagrado,Hambúrguer,x-burger,5,56.71,5,278.55,2.79,8.21,32,4.4
+P0063,R006,Armazém do Cometa Sagrado,Hambúrguer,x-salada,2,40.22,0,82.44,0.91,6.31,25,4.2
+P0064,R006,Armazém do Cometa Sagrado,Hambúrguer,batata frita,1,39.68,0,42.68,0.96,8.72,20,4.3
+P0065,R006,Armazém do Cometa Sagrado,Hambúrguer,batata frita,4,46.08,3,184.32,1.2,7.71,30,4.8
+P0066,R006,Armazém do Cometa Sagrado,Hambúrguer,smash duplo,4,52.39,2,207.56,2.07,7.67,39,4.3
+P0067,R007,Armazém do Mercado Noturno,Salgados,risole,2,14.64,3,30.28,4.24,6.08,33,4.0
+P0068,R007,Armazém do Mercado Noturno,Salgados,esfiha,4,15.22,2,208.76,4.97,7.46,31,4.1
+P0069,R007,Armazém do Mercado Noturno,Salgados,enroladinho,2,14.83,0,32.66,5.04,9.33,43,3.7
+P0070,R007,Armazém do Mercado Noturno,Salgados,coxinha,3,15.95,5,44.85,4.95,7.89,41,3.5
+P0071,R007,Armazém do Mercado Noturno,Salgados,risole,3,9.63,5,23.89,6.27,6.16,44,3.7
+P0072,R007,Armazém do Mercado Noturno,Salgados,risole,3,9.31,0,27.93,4.55,4.78,48,3.9
+P0073,R007,Armazém do Mercado Noturno,Salgados,esfiha,2,11.13,2,22.26,2.84,3.81,37,3.5
+P0074,R007,Armazém do Mercado Noturno,Salgados,kibe,3,10.75,5,27.25,4.09,6.58,22,3.8
+P0075,R007,Armazém do Mercado Noturno,Salgados,coxinha,2,14.43,3,25.86,5.18,7.16,49,4.1
+P0076,R007,Armazém do Mercado Noturno,Salgados,risole,2,13.1,5,22.7,4.51,5.78,38,3.7
+P0077,R008,Armazém do Tacho Supremo,Café,pão de queijo,3,46.84,0,142.02,4.18,11.39,31,3.5
+P0078,R008,Armazém do Tacho Supremo,Café,café coado,1,58.72,0,60.22,2.51,8.33,33,3.3
+P0079,R008,Armazém do Tacho Supremo,Café,café coado,1,62.11,3,59.11,2.41,8.59,23,4.2
+P0080,R008,Armazém do Tacho Supremo,Café,cappuccino,5,59.82,3,296.1,2.9,10.79,28,3.7
+P0081,R008,Armazém do Tacho Supremo,Café,café coado,1,55.24,5,54.24,4.51,12.0,40,3.4
+P0082,R008,Armazém do Tacho Supremo,Café,pão de queijo,2,53.63,0,107.26,2.21,9.81,29,3.3
+P0083,R008,Armazém do Tacho Supremo,Café,cappuccino,1,55.14,0,58.14,1.82,10.43,41,3.7
+P0084,R008,Armazém do Tacho Supremo,Café,pão de queijo,1,66.32,0,70.32,3.47,10.95,45,3.5
+P0085,R008,Armazém do Tacho Supremo,Café,pão de queijo,2,62.64,0,129.28,2.71,11.28,31,4.0
+P0086,R008,Armazém do Tacho Supremo,Café,cappuccino,3,53.89,5,156.67,1.71,9.11,25,3.8
+P0087,R009,Armazém do X-Tudo Selvagem,Hambúrguer,x-bacon,5,10.19,3,49.95,6.99,16.12,68,3.1
+P0088,R009,Armazém do X-Tudo Selvagem,Hambúrguer,x-burger,1,14.42,0,14.42,5.55,13.57,41,3.5
+P0089,R009,Armazém do X-Tudo Selvagem,Hambúrguer,x-bacon,1,9.68,0,11.18,7.54,14.57,51,3.8
+P0090,R009,Armazém do X-Tudo Selvagem,Hambúrguer,x-salada,2,10.41,2,20.32,4.99,15.05,42,4.1
+P0091,R009,Armazém do X-Tudo Selvagem,Hambúrguer,x-salada,4,13.81,0,58.24,5.36,10.95,56,3.1
+P0092,R009,Armazém do X-Tudo Selvagem,Hambúrguer,batata frita,1,13.01,5,154.61,6.3,12.43,49,3.7
+P0093,R009,Armazém do X-Tudo Selvagem,Hambúrguer,batata frita,4,10.88,0,47.52,6.13,13.49,37,3.9
+P0094,R009,Armazém do X-Tudo Selvagem,Hambúrguer,x-bacon,2,13.53,0,29.06,6.41,13.7,50,3.5
+P0095,R009,Armazém do X-Tudo Selvagem,Hambúrguer,x-salada,1,8.5,0,11.5,9.56,13.99,64,2.6
+P0096,R009,Armazém do X-Tudo Selvagem,Hambúrguer,smash duplo,2,14.11,5,23.22,8.12,15.52,69,2.9
+P0097,R010,Bar da Esquina Sagrado,Hambúrguer,smash duplo,4,41.19,5,163.76,7.33,7.15,53,3.5
+P0098,R010,Bar da Esquina Sagrado,Hambúrguer,x-burger,2,49.07,0,100.14,7.5,6.22,53,3.7
+P0099,R010,Bar da Esquina Sagrado,Hambúrguer,smash duplo,2,28.98,2,55.96,8.86,8.49,70,2.2
+P0100,R010,Bar da Esquina Sagrado,Hambúrguer,x-salada,2,43.01,5,82.52,9.11,6.94,68,2.9
+P0101,R010,Bar da Esquina Sagrado,Hambúrguer,smash duplo,5,30.16,5,147.8,7.42,7.69,62,3.6
+P0102,R010,Bar da Esquina Sagrado,Hambúrguer,smash duplo,5,43.38,0,216.9,8.92,8.47,58,3.5
+P0103,R010,Bar da Esquina Sagrado,Hambúrguer,batata frita,5,43.52,0,217.6,8.5,6.54,74,2.8
+P0104,R010,Bar da Esquina Sagrado,Hambúrguer,x-salada,1,42.81,5,37.81,8.71,7.53,58,3.3
+P0105,R010,Bar da Esquina Sagrado,Hambúrguer,x-burger,1,42.65,5,40.65,7.53,8.4,62,3.2
+P0106,R010,Bar da Esquina Sagrado,Hambúrguer,x-burger,2,34.71,0,73.42,9.11,6.44,73,3.9
+P0107,R010,Bar da Esquina Sagrado,Hambúrguer,batata frita,2,40.36,0,80.72,4.87,8.4,43,3.6
+P0108,R010,Bar da Esquina Sagrado,Hambúrguer,smash duplo,1,42.47,5,37.47,11.75,9.42,60,3.5
+P0109,R011,Bar da Garoa Nervoso,Japonesa,yakisoba,2,32.45,5,63.9,5.2,7.96,56,3.3
+P0110,R011,Bar da Garoa Nervoso,Japonesa,yakisoba,2,42.36,2,84.72,4.26,6.81,29,3.6
+P0111,R011,Bar da Garoa Nervoso,Japonesa,temaki,2,28.51,3,57.02,4.69,9.37,46,3.5
+P0112,R011,Bar da Garoa Nervoso,Japonesa,yakisoba,2,36.13,2,70.26,3.16,7.73,25,3.8
+P0113,R011,Bar da Garoa Nervoso,Japonesa,hot roll,4,40.45,0,165.8,2.02,5.88,29,3.9
+P0114,R011,Bar da Garoa Nervoso,Japonesa,combo 12 peças,4,35.53,0,144.12,4.41,9.13,52,3.5
+P0115,R011,Bar da Garoa Nervoso,Japonesa,combo 12 peças,3,28.12,3,81.36,4.32,6.7,25,3.9
+P0116,R011,Bar da Garoa Nervoso,Japonesa,hot roll,2,39.11,2,77.72,5.43,7.57,40,3.7
+P0117,R011,Bar da Garoa Nervoso,Japonesa,hot roll,2,27.69,0,55.38,3.99,7.55,27,3.8
+P0118,R011,Bar da Garoa Nervoso,Japonesa,yakisoba,2,29.21,0,62.42,3.37,4.31,35,4.5
+P0119,R011,Bar da Garoa Nervoso,Japonesa,temaki,5,27.36,0,138.8,2.22,3.14,39,3.9
+P0120,R012,Bar da Panela Cósmico,Açaí,vitamina,5,38.26,2,189.3,2.46,7.45,27,3.5
+P0121,R012,Bar da Panela Cósmico,Açaí,salada de frutas,1,59.51,0,59.51,0.29,3.67,15,3.7
+P0122,R012,Bar da Panela Cósmico,Açaí,salada de frutas,2,36.57,2,73.14,2.02,3.43,31,3.7
+P0123,R012,Bar da Panela Cósmico,Açaí,salada de frutas,2,43.7,5,82.4,2.62,7.9,29,4.1
+P0124,R012,Bar da Panela Cósmico,Açaí,açaí 300ml,1,50.3,3,48.8,2.42,4.37,32,2.9
+P0125,R012,Bar da Panela Cósmico,Açaí,vitamina,1,47.2,0,48.7,0.2,3.88,13,4.1
+P0126,R012,Bar da Panela Cósmico,Açaí,açaí 500ml,3,37.27,0,114.81,2.27,5.81,31,4.3
+P0127,R012,Bar da Panela Cósmico,Açaí,açaí 500ml,1,36.45,0,37.95,0.83,3.35,9,3.4
+P0128,R012,Bar da Panela Cósmico,Açaí,salada de frutas,1,48.84,2,46.84,1.97,5.16,31,3.9
+P0129,R012,Bar da Panela Cósmico,Açaí,açaí 300ml,2,45.55,0,92.6,1.83,5.09,36,3.3
+P0130,R013,Bar da Vila Alta Dourado,Pizza,pizza média,4,28.63,2,116.52,5.5,10.56,52,3.5
+P0131,R013,Bar da Vila Alta Dourado,Pizza,pizza média,2,24.08,2,46.16,4.88,9.47,45,3.6
+P0132,R013,Bar da Vila Alta Dourado,Pizza,fatia marguerita,4,26.69,3,103.76,6.28,10.37,48,3.7
+P0133,R013,Bar da Vila Alta Dourado,Pizza,pizza brotinho,2,24.46,3,45.92,6.58,8.92,55,3.0
+P0134,R013,Bar da Vila Alta Dourado,Pizza,fatia marguerita,3,19.52,3,55.56,5.93,11.37,48,3.5
+P0135,R013,Bar da Vila Alta Dourado,Pizza,fatia marguerita,5,20.74,3,100.7,5.73,8.64,49,3.3
+P0136,R013,Bar da Vila Alta Dourado,Pizza,fatia marguerita,1,24.5,0,28.5,5.26,8.43,48,3.2
+P0137,R013,Bar da Vila Alta Dourado,Pizza,fatia marguerita,4,27.49,2,109.96,8.44,9.44,63,2.5
+P0138,R013,Bar da Vila Alta Dourado,Pizza,fatia de calabresa,2,19.87,5,36.74,5.91,8.31,51,4.0
+P0139,R013,Bar da Vila Alta Dourado,Pizza,fatia marguerita,3,20.05,0,62.15,7.43,9.66,44,3.8
+P0140,R013,Bar da Vila Alta Dourado,Pizza,fatia marguerita,1,18.0,0,18.0,7.27,8.61,38,3.8
+P0141,R013,Bar da Vila Alta Dourado,Pizza,pizza média,1,19.18,2,17.18,7.16,8.65,57,3.8
+P0142,R013,Bar da Vila Alta Dourado,Pizza,fatia de calabresa,4,22.87,3,88.48,6.81,10.17,54,3.4
+P0143,R014,Bar do Sumiço Nervoso,Marmita,marmita fitness,1,29.8,0,31.3,0.2,5.03,8,3.9
+P0144,R014,Bar do Sumiço Nervoso,Marmita,prato executivo,4,24.95,0,101.8,2.2,5.96,41,3.6
+P0145,R014,Bar do Sumiço Nervoso,Marmita,marmita P,1,18.86,3,17.36,1.99,3.23,20,3.2
+P0146,R014,Bar do Sumiço Nervoso,Marmita,marmita fitness,2,30.52,5,56.04,3.03,5.41,36,3.6
+P0147,R014,Bar do Sumiço Nervoso,Marmita,prato executivo,1,32.66,0,36.66,2.72,6.14,33,3.8
+P0148,R014,Bar do Sumiço Nervoso,Marmita,marmita M,4,23.06,2,91.74,1.68,5.74,36,3.5
+P0149,R014,Bar do Sumiço Nervoso,Marmita,prato executivo,2,27.38,0,54.76,1.91,6.16,37,2.7
+P0150,R014,Bar do Sumiço Nervoso,Marmita,marmita fitness,2,20.74,5,37.98,3.26,7.14,33,3.6
+P0151,R014,Bar do Sumiço Nervoso,Marmita,marmita P,5,28.19,0,143.95,3.38,4.59,25,3.9
+P0152,R014,Bar do Sumiço Nervoso,Marmita,marmita P,5,29.31,2,147.55,2.8,5.88,26,4.0
+P0153,R014,Bar do Sumiço Nervoso,Marmita,marmita fitness,2,29.02,3,55.04,2.21,6.38,31,3.8
+P0154,R014,Bar do Sumiço Nervoso,Marmita,marmita P,1,23.36,0,26.36,4.03,7.9,32,3.7
+P0155,R015,Beco do Gato Preto Sagrado,Hambúrguer,x-salada,1,7.07,0,8.57,2.14,4.48,26,4.2
+P0156,R015,Beco do Gato Preto Sagrado,Hambúrguer,batata frita,1,10.4,2,8.4,2.68,3.13,25,4.4
+P0157,R015,Beco do Gato Preto Sagrado,Hambúrguer,batata frita,2,10.43,0,24.86,2.28,2.63,31,4.6
+P0158,R015,Beco do Gato Preto Sagrado,Hambúrguer,x-burger,1,10.58,2,11.58,1.93,4.59,26,4.4
+P0159,R015,Beco do Gato Preto Sagrado,Hambúrguer,x-bacon,2,7.36,5,13.72,1.89,1.28,32,1.9
+P0160,R015,Beco do Gato Preto Sagrado,Hambúrguer,x-salada,2,8.75,3,18.5,2.41,2.61,38,3.9
+P0161,R015,Beco do Gato Preto Sagrado,Hambúrguer,x-burger,2,10.38,0,22.76,5.37,7.62,58,4.0
+P0162,R015,Beco do Gato Preto Sagrado,Hambúrguer,x-salada,4,8.0,0,33.5,1.89,3.79,25,4.1
+P0163,R015,Beco do Gato Preto Sagrado,Hambúrguer,x-burger,3,10.3,2,32.9,0.2,3.99,15,4.1
+P0164,R016,Beco do X-Tudo Elétrico,Japonesa,combo 12 peças,2,40.64,0,82.78,10.36,12.08,60,3.8
+P0165,R016,Beco do X-Tudo Elétrico,Japonesa,temaki,3,61.8,5,180.4,8.78,8.96,68,3.6
+P0166,R016,Beco do X-Tudo Elétrico,Japonesa,yakisoba,2,59.13,3,115.26,7.86,10.83,51,2.6
+P0167,R016,Beco do X-Tudo Elétrico,Japonesa,combo 12 peças,2,51.16,2,102.32,8.35,12.54,189,2.8
+P0168,R016,Beco do X-Tudo Elétrico,Japonesa,temaki,1,56.48,0,57.98,9.39,12.36,63,3.0
+P0169,R016,Beco do X-Tudo Elétrico,Japonesa,hot roll,1,45.45,5,41.95,7.3,8.84,52,3.9
+P0170,R016,Beco do X-Tudo Elétrico,Japonesa,temaki,3,39.93,2,119.79,5.24,10.08,51,3.2
+P0171,R016,Beco do X-Tudo Elétrico,Japonesa,combo 12 peças,1,58.1,3,56.6,8.25,9.65,67,2.7
+P0172,R016,Beco do X-Tudo Elétrico,Japonesa,yakisoba,5,45.74,0,228.7,7.67,8.83,59,3.1
+P0173,R016,Beco do X-Tudo Elétrico,Japonesa,yakisoba,5,43.51,0,217.55,7.6,12.04,58,3.0
+P0174,R016,Beco do X-Tudo Elétrico,Japonesa,hot roll,2,67.72,0,137.44,9.71,8.29,68,3.5
+P0175,R017,Bistrô do Abacaxi Selvagem,Marmita,marmita fitness,2,16.49,0,32.98,4.99,6.5,32,4.4
+P0176,R017,Bistrô do Abacaxi Selvagem,Marmita,marmita M,1,23.6,3,20.6,5.31,8.11,41,4.1
+P0177,R017,Bistrô do Abacaxi Selvagem,Marmita,marmita M,2,24.89,0,49.78,5.57,6.07,41,3.6
+P0178,R017,Bistrô do Abacaxi Selvagem,Marmita,marmita P,3,19.77,5,56.31,5.76,6.29,47,4.1
+P0179,R017,Bistrô do Abacaxi Selvagem,Marmita,prato executivo,3,20.2,0,60.6,6.06,6.41,41,3.4
+P0180,R017,Bistrô do Abacaxi Selvagem,Marmita,marmita fitness,3,18.12,0,58.36,5.35,6.68,32,4.0
+P0181,R017,Bistrô do Abacaxi Selvagem,Marmita,prato executivo,1,15.02,2,14.52,5.36,8.05,54,3.3
+P0182,R017,Bistrô do Abacaxi Selvagem,Marmita,marmita P,1,23.99,0,23.99,9.04,6.39,65,3.2
+P0183,R017,Bistrô do Abacaxi Selvagem,Marmita,marmita P,2,23.99,5,42.98,5.97,6.72,38,4.2
+P0184,R017,Bistrô do Abacaxi Selvagem,Marmita,prato executivo,2,20.84,0,44.68,6.66,7.81,55,3.7
+P0185,R017,Bistrô do Abacaxi Selvagem,Marmita,prato executivo,2,24.96,5,46.92,5.03,7.3,41,4.3
+P0186,R017,Bistrô do Abacaxi Selvagem,Marmita,marmita M,1,14.11,0,14.11,8.74,8.72,53,4.0
+P0187,R017,Bistrô do Abacaxi Selvagem,Marmita,marmita P,4,23.12,5,87.48,5.1,8.18,55,3.7
+P0188,R018,Império da Coxinha Nebulosa,Salgados,enroladinho,1,7.34,0,8.06,0.74,3.07,16,4.7
+P0189,R018,Império da Coxinha Nebulosa,Salgados,kibe,1,5.95,1,6.12,0.95,2.05,22,4.8
+P0190,R018,Império da Coxinha Nebulosa,Salgados,risole,1,8.5,2,9.8,0.86,1.88,22,4.8
+P0191,R018,Império da Coxinha Nebulosa,Salgados,enroladinho,1,6.52,2,6.58,0.97,1.27,15,4.7
+P0192,R018,Império da Coxinha Nebulosa,Salgados,coxinha,1,6.2,1,7.91,0.5,3.09,15,4.8
+P0193,R018,Império da Coxinha Nebulosa,Salgados,kibe,1,7.55,1,8.16,0.49,1.08,15,4.8
+P0194,R018,Império da Coxinha Nebulosa,Salgados,risole,4,5.78,0,23.12,2.32,4.66,15,3.8
+P0195,R018,Império da Coxinha Nebulosa,Salgados,risole,1,6.36,0,9.36,2.9,4.05,29,4.1
+P0196,R018,Império da Coxinha Nebulosa,Salgados,enroladinho,2,4.98,5,7.96,0.63,4.38,23,4.3
+P0197,R018,Império da Coxinha Nebulosa,Salgados,kibe,1,8.72,2,8.76,1.17,2.82,15,4.9
+P0198,R018,Império da Coxinha Nebulosa,Salgados,coxinha,1,8.99,0,9.22,0.93,2.35,13,4.7
+P0199,R018,Império da Coxinha Nebulosa,Salgados,mini churros,1,7.38,2,7.98,0.84,1.74,15,4.8
+P0200,R018,Império da Coxinha Nebulosa,Salgados,kibe,1,9.11,2,10.81,0.9,2.48,22,4.7
+P0201,R018,Império da Coxinha Nebulosa,Salgados,enroladinho,1,7.63,0,9.31,0.56,2.07,15,4.9
+P0202,R018,Império da Coxinha Nebulosa,Salgados,coxinha,1,7.59,0,7.72,1.05,2.5,13,4.7
+P0203,R018,Império da Coxinha Nebulosa,Salgados,enroladinho,1,5.63,1,7.37,0.36,3.39,12,4.8
+P0204,R018,Império da Coxinha Nebulosa,Salgados,enroladinho,1,7.24,2,8.79,0.84,3.23,17,4.8
+P0205,R018,Império da Coxinha Nebulosa,Salgados,risole,1,7.28,0,8.86,0.88,2.69,13,4.7
+P0206,R018,Império da Coxinha Nebulosa,Salgados,risole,1,9.38,1,9.91,0.54,2.18,23,4.8
+P0207,R018,Império da Coxinha Nebulosa,Salgados,enroladinho,1,5.78,1,6.29,0.63,2.18,12,4.7
+P0208,R018,Império da Coxinha Nebulosa,Salgados,mini churros,1,9.39,0,10.05,0.73,1.49,19,4.8
+P0209,R018,Império da Coxinha Nebulosa,Salgados,risole,1,7.57,1,7.58,0.31,1.55,12,4.7
+P0210,R018,Império da Coxinha Nebulosa,Salgados,risole,1,7.35,0,8.23,0.5,1.99,12,4.8
+P0211,R018,Império da Coxinha Nebulosa,Salgados,risole,1,6.64,2,8.28,0.78,3.2,18,4.7
+P0212,R018,Império da Coxinha Nebulosa,Salgados,risole,1,5.68,0,6.58,1.14,1.41,16,4.8
+P0213,R018,Império da Coxinha Nebulosa,Salgados,coxinha,1,8.36,0,9.58,0.58,3.06,23,4.9
+P0214,R019,Boteco da Batata Honesto,Pizza,pizza brotinho,3,19.24,0,59.72,3.6,9.75,33,3.9
+P0215,R019,Boteco da Batata Honesto,Pizza,fatia de calabresa,2,23.95,2,45.9,2.7,8.4,16,4.3
+P0216,R019,Boteco da Batata Honesto,Pizza,fatia marguerita,3,24.59,0,75.77,2.55,8.56,31,5.0
+P0217,R019,Boteco da Batata Honesto,Pizza,fatia marguerita,1,20.2,2,22.2,2.09,6.7,30,4.9
+P0218,R019,Boteco da Batata Honesto,Pizza,pizza média,4,33.15,0,132.6,1.91,10.19,20,4.5
+P0219,R019,Boteco da Batata Honesto,Pizza,fatia marguerita,2,31.95,0,66.9,1.27,5.84,33,4.1
+P0220,R019,Boteco da Batata Honesto,Pizza,pizza brotinho,2,19.64,3,36.28,1.84,9.14,22,4.0
+P0221,R019,Boteco da Batata Honesto,Pizza,pizza média,2,27.05,0,54.1,0.2,8.55,33,4.5
+P0222,R020,Boteco do Caldinho Noturno,Café,croissant,3,45.9,3,136.2,4.82,5.17,45,2.6
+P0223,R020,Boteco do Caldinho Noturno,Café,cappuccino,2,35.51,0,75.02,3.16,3.3,43,3.9
+P0224,R020,Boteco do Caldinho Noturno,Café,croissant,2,41.47,5,79.44,7.81,5.81,56,2.7
+P0225,R020,Boteco do Caldinho Noturno,Café,croissant,1,49.6,3,46.6,4.78,4.87,42,3.3
+P0226,R020,Boteco do Caldinho Noturno,Café,café coado,1,35.98,3,32.98,3.01,3.78,33,3.6
+P0227,R020,Boteco do Caldinho Noturno,Café,cappuccino,4,52.35,0,210.9,5.21,5.73,30,3.2
+P0228,R020,Boteco do Caldinho Noturno,Café,croissant,2,39.67,3,76.34,7.39,6.48,53,3.6
+P0229,R020,Boteco do Caldinho Noturno,Café,croissant,2,42.64,0,85.28,5.13,4.59,26,4.0
+P0230,R020,Boteco do Caldinho Noturno,Café,cappuccino,2,39.25,3,75.5,5.08,7.94,46,3.6
+P0231,R020,Boteco do Caldinho Noturno,Café,café coado,2,52.85,3,104.7,5.46,5.21,50,3.4
+P0232,R021,Cantina da Pimenta Dourado,Açaí,salada de frutas,1,43.7,0,43.7,5.0,4.16,37,3.7
+P0233,R021,Cantina da Pimenta Dourado,Açaí,salada de frutas,3,40.71,2,120.13,4.59,6.53,41,4.2
+P0234,R021,Cantina da Pimenta Dourado,Açaí,açaí 500ml,2,41.29,0,170.72,3.41,8.29,42,3.7
+P0235,R021,Cantina da Pimenta Dourado,Açaí,açaí 500ml,3,50.85,0,152.55,8.51,6.86,72,3.2
+P0236,R021,Cantina da Pimenta Dourado,Açaí,açaí 300ml,2,53.26,3,105.02,7.29,7.47,53,3.8
+P0237,R021,Cantina da Pimenta Dourado,Açaí,vitamina,2,44.5,0,93.0,8.31,7.88,68,3.5
+P0238,R021,Cantina da Pimenta Dourado,Açaí,açaí 300ml,1,36.74,0,38.24,7.35,6.7,68,3.2
+P0239,R021,Cantina da Pimenta Dourado,Açaí,vitamina,5,34.4,0,172.0,5.61,6.53,41,3.7
+P0240,R021,Cantina da Pimenta Dourado,Açaí,salada de frutas,1,51.86,0,53.36,6.53,7.91,44,3.6
+P0241,R021,Cantina da Pimenta Dourado,Açaí,salada de frutas,2,31.48,5,59.46,8.51,9.2,76,3.2
+P0242,R021,Cantina da Pimenta Dourado,Açaí,vitamina,1,32.03,0,35.03,5.77,6.05,53,3.7
+P0243,R022,Cantina da Vila Alta Secreto,Salgados,enroladinho,1,12.2,2,12.2,1.5,12.37,18,4.0
+P0244,R022,Cantina da Vila Alta Secreto,Salgados,coxinha,1,11.73,3,12.73,2.08,12.84,24,3.6
+P0245,R022,Cantina da Vila Alta Secreto,Salgados,kibe,3,13.26,5,38.78,3.55,11.83,53,3.8
+P0246,R022,Cantina da Vila Alta Secreto,Salgados,kibe,2,15.8,2,32.6,0.45,9.44,11,4.3
+P0247,R022,Cantina da Vila Alta Secreto,Salgados,coxinha,4,18.17,5,69.18,0.61,11.86,13,4.2
+P0248,R022,Cantina da Vila Alta Secreto,Salgados,esfiha,1,18.75,5,13.75,1.43,11.29,32,3.6
+P0249,R022,Cantina da Vila Alta Secreto,Salgados,kibe,2,12.47,0,24.94,2.81,11.14,41,3.5
+P0250,R023,Cantina do Javali Sincero,Açaí,açaí 300ml,4,23.61,5,89.44,7.6,11.41,57,3.2
+P0251,R023,Cantina do Javali Sincero,Açaí,açaí 300ml,2,22.96,0,45.92,7.77,10.63,58,3.4
+P0252,R023,Cantina do Javali Sincero,Açaí,açaí 500ml,3,30.86,0,96.58,6.29,10.56,54,3.9
+P0253,R023,Cantina do Javali Sincero,Açaí,açaí 300ml,1,22.58,2,24.58,7.0,12.59,55,3.1
+P0254,R023,Cantina do Javali Sincero,Açaí,açaí 300ml,3,17.57,0,56.71,7.38,9.84,69,3.0
+P0255,R023,Cantina do Javali Sincero,Açaí,açaí 300ml,2,29.72,5,57.44,7.96,10.41,43,3.9
+P0256,R023,Cantina do Javali Sincero,Açaí,açaí 500ml,1,26.66,0,26.66,8.49,10.29,73,2.9
+P0257,R023,Cantina do Javali Sincero,Açaí,açaí 300ml,1,30.01,0,31.51,6.38,10.79,50,3.2
+P0258,R023,Cantina do Javali Sincero,Açaí,vitamina,1,29.24,3,29.24,5.11,9.05,41,2.8
+P0259,R023,Cantina do Javali Sincero,Açaí,açaí 300ml,2,24.97,2,50.94,7.06,10.97,53,3.7
+P0260,R024,Cantina do Pistache Afiado,Hambúrguer,x-bacon,3,31.53,0,96.09,8.28,7.04,65,3.2
+P0261,R024,Cantina do Pistache Afiado,Hambúrguer,x-bacon,1,30.6,0,32.6,7.84,8.68,45,2.8
+P0262,R024,Cantina do Pistache Afiado,Hambúrguer,x-bacon,1,31.29,3,29.79,8.58,7.96,40,3.1
+P0263,R024,Cantina do Pistache Afiado,Hambúrguer,smash duplo,2,26.56,3,50.12,7.58,4.73,54,3.8
+P0264,R024,Cantina do Pistache Afiado,Hambúrguer,batata frita,1,44.58,3,41.58,10.47,8.52,77,3.5
+P0265,R024,Cantina do Pistache Afiado,Hambúrguer,smash duplo,3,29.38,2,86.14,8.79,7.55,57,3.4
+P0266,R024,Cantina do Pistache Afiado,Hambúrguer,x-bacon,1,45.06,2,44.56,9.17,8.04,62,3.2
+P0267,R024,Cantina do Pistache Afiado,Hambúrguer,batata frita,3,36.12,0,112.36,9.16,8.75,63,3.3
+P0268,R025,Cantina do Pixel Afiado,Pizza,fatia de calabresa,1,39.01,0,39.01,7.74,8.01,59,3.2
+P0269,R025,Cantina do Pixel Afiado,Pizza,fatia marguerita,5,56.37,5,279.85,6.76,10.39,49,3.0
+P0270,R025,Cantina do Pixel Afiado,Pizza,pizza brotinho,2,63.7,3,125.9,5.83,8.8,32,3.9
+P0271,R025,Cantina do Pixel Afiado,Pizza,fatia de calabresa,2,55.55,5,110.1,6.6,8.49,55,3.2
+P0272,R025,Cantina do Pixel Afiado,Pizza,pizza brotinho,4,66.1,0,264.4,6.94,8.62,46,3.7
+P0273,R025,Cantina do Pixel Afiado,Pizza,fatia de calabresa,2,59.31,5,117.62,8.2,10.57,60,2.8
+P0274,R025,Cantina do Pixel Afiado,Pizza,pizza média,3,52.7,3,155.1,4.76,8.34,49,3.3
+P0275,R025,Cantina do Pixel Afiado,Pizza,pizza brotinho,3,40.54,0,123.62,6.36,7.75,41,3.7
+P0276,R025,Cantina do Pixel Afiado,Pizza,fatia de calabresa,1,49.65,0,49.65,5.55,9.55,58,3.1
+P0277,R025,Cantina do Pixel Afiado,Pizza,pizza brotinho,4,66.32,0,265.28,7.94,8.33,60,2.7
+P0278,R025,Cantina do Pixel Afiado,Pizza,pizza brotinho,2,57.45,0,114.9,6.41,7.21,45,3.8
+P0279,R025,Cantina do Pixel Afiado,Pizza,pizza brotinho,5,55.19,0,275.95,4.02,6.37,36,3.8
+P0280,R026,Cantina do Pêndulo Sincero,Açaí,açaí 300ml,2,64.69,3,126.38,3.28,8.95,31,2.7
+P0281,R026,Cantina do Pêndulo Sincero,Açaí,açaí 500ml,1,55.3,0,55.3,0.89,8.46,11,4.8
+P0282,R026,Cantina do Pêndulo Sincero,Açaí,açaí 500ml,1,63.96,0,63.96,0.6,9.69,22,4.6
+P0283,R026,Cantina do Pêndulo Sincero,Açaí,açaí 300ml,2,38.91,3,76.32,2.35,5.95,23,3.7
+P0284,R026,Cantina do Pêndulo Sincero,Açaí,vitamina,2,44.47,5,83.94,2.33,7.63,36,4.0
+P0285,R026,Cantina do Pêndulo Sincero,Açaí,salada de frutas,2,46.64,3,246.27,2.57,9.81,27,3.6
+P0286,R026,Cantina do Pêndulo Sincero,Açaí,vitamina,4,67.13,3,268.52,0.2,8.22,8,3.7
+P0287,R026,Cantina do Pêndulo Sincero,Açaí,açaí 500ml,3,38.17,5,109.51,2.19,9.07,15,4.5
+P0288,R026,Cantina do Pêndulo Sincero,Açaí,vitamina,3,60.34,0,184.02,4.04,13.51,44,3.6
+P0289,R026,Cantina do Pêndulo Sincero,Açaí,açaí 300ml,4,58.49,0,237.96,1.09,8.71,22,4.1
+P0290,R026,Cantina do Pêndulo Sincero,Açaí,açaí 500ml,1,41.82,5,39.82,0.23,8.61,23,3.9
+P0291,R027,Cantina do Sumiço Clandestino,Hambúrguer,x-salada,3,14.93,0,44.79,0.2,2.21,26,4.4
+P0292,R027,Cantina do Sumiço Clandestino,Hambúrguer,batata frita,2,11.29,0,24.08,1.5,3.8,33,3.6
+P0293,R027,Cantina do Sumiço Clandestino,Hambúrguer,batata frita,4,15.91,0,63.64,0.2,1.88,10,4.4
+P0294,R027,Cantina do Sumiço Clandestino,Hambúrguer,batata frita,5,17.4,2,85.0,2.13,3.17,34,4.3
+P0295,R027,Cantina do Sumiço Clandestino,Hambúrguer,x-bacon,3,13.87,0,44.61,0.56,2.84,25,4.1
+P0296,R027,Cantina do Sumiço Clandestino,Hambúrguer,x-burger,4,19.77,0,79.08,0.72,2.31,11,4.2
+P0297,R027,Cantina do Sumiço Clandestino,Hambúrguer,batata frita,2,19.35,0,40.7,1.92,4.58,21,3.7
+P0298,R027,Cantina do Sumiço Clandestino,Hambúrguer,batata frita,1,14.02,3,14.02,1.79,3.34,33,4.3
+P0299,R027,Cantina do Sumiço Clandestino,Hambúrguer,batata frita,1,17.99,3,17.99,1.2,2.49,20,3.6
+P0300,R027,Cantina do Sumiço Clandestino,Hambúrguer,x-salada,5,11.67,0,60.35,1.28,2.05,33,4.3
+P0301,R028,Cantina do Vapor Honesto,Hambúrguer,smash duplo,2,37.21,0,75.92,3.04,12.35,40,4.6
+P0302,R028,Cantina do Vapor Honesto,Hambúrguer,x-salada,2,45.22,0,90.44,0.99,8.9,39,3.9
+P0303,R028,Cantina do Vapor Honesto,Hambúrguer,x-salada,2,31.28,5,57.56,4.32,11.13,48,3.2
+P0304,R028,Cantina do Vapor Honesto,Hambúrguer,x-bacon,2,44.8,0,92.6,0.39,8.42,19,4.1
+P0305,R028,Cantina do Vapor Honesto,Hambúrguer,x-salada,2,34.1,3,65.2,3.04,7.82,43,4.4
+P0306,R028,Cantina do Vapor Honesto,Hambúrguer,smash duplo,2,29.5,0,60.5,3.44,9.67,42,3.7
+P0307,R028,Cantina do Vapor Honesto,Hambúrguer,x-bacon,2,46.37,5,90.74,1.41,8.51,28,4.4
+P0308,R029,Canto da Coxinha Crocrante,Pizza,pizza média,2,37.28,0,76.56,8.07,14.14,47,3.5
+P0309,R029,Canto da Coxinha Crocrante,Pizza,pizza brotinho,3,33.14,3,96.42,6.27,12.35,44,3.0
+P0310,R029,Canto da Coxinha Crocrante,Pizza,pizza média,1,32.43,0,34.43,6.69,13.65,47,3.4
+P0311,R029,Canto da Coxinha Crocrante,Pizza,pizza brotinho,5,51.6,0,261.0,3.42,10.32,32,4.0
+P0312,R029,Canto da Coxinha Crocrante,Pizza,fatia marguerita,2,37.14,5,69.28,7.07,11.13,41,3.3
+P0313,R029,Canto da Coxinha Crocrante,Pizza,fatia de calabresa,3,39.13,2,116.89,7.1,11.76,63,3.1
+P0314,R029,Canto da Coxinha Crocrante,Pizza,fatia marguerita,2,44.1,3,85.2,5.28,12.9,59,3.1
+P0315,R030,Canto da Esquina Solar,Açaí,açaí 500ml,2,41.58,3,83.16,3.01,4.62,26,4.0
+P0316,R030,Canto da Esquina Solar,Açaí,açaí 300ml,3,36.15,0,108.45,5.56,5.9,52,4.1
+P0317,R030,Canto da Esquina Solar,Açaí,açaí 300ml,2,58.91,2,115.82,3.49,5.81,20,4.6
+P0318,R030,Canto da Esquina Solar,Açaí,açaí 300ml,3,38.02,3,111.06,4.34,4.95,37,4.3
+P0319,R030,Canto da Esquina Solar,Açaí,vitamina,2,50.31,0,231.23,4.46,4.96,42,3.3
+P0320,R030,Canto da Esquina Solar,Açaí,vitamina,4,45.7,5,177.8,6.3,4.78,52,3.5
+P0321,R030,Canto da Esquina Solar,Açaí,açaí 500ml,1,55.71,3,56.71,4.9,6.61,30,4.3
+P0322,R030,Canto da Esquina Solar,Açaí,açaí 500ml,1,36.37,0,36.37,5.08,7.79,40,4.0
+P0323,R030,Canto da Esquina Solar,Açaí,vitamina,2,40.6,5,80.2,2.5,2.95,34,4.7
+P0324,R031,Canto da Garoa Crocrante,Açaí,salada de frutas,5,19.71,5,93.55,7.42,12.15,68,3.1
+P0325,R031,Canto da Garoa Crocrante,Açaí,açaí 500ml,1,18.68,5,15.68,6.45,10.83,51,1.7
+P0326,R031,Canto da Garoa Crocrante,Açaí,salada de frutas,5,20.0,0,100.0,6.31,9.16,48,3.7
+P0327,R031,Canto da Garoa Crocrante,Açaí,açaí 300ml,2,19.76,5,34.52,10.33,11.17,82,3.4
+P0328,R031,Canto da Garoa Crocrante,Açaí,salada de frutas,1,14.92,0,16.42,8.54,11.86,63,3.5
+P0329,R031,Canto da Garoa Crocrante,Açaí,vitamina,2,18.75,5,32.5,8.65,11.81,57,2.6
+P0330,R031,Canto da Garoa Crocrante,Açaí,açaí 500ml,1,19.65,0,19.65,6.86,11.02,60,2.7
+P0331,R031,Canto da Garoa Crocrante,Açaí,vitamina,5,15.59,0,77.95,6.67,10.07,49,4.1
+P0332,R031,Canto da Garoa Crocrante,Açaí,açaí 500ml,5,21.42,0,109.1,6.09,9.17,43,3.7
+P0333,R032,Canto da Neblina Sagrado,Japonesa,yakisoba,2,32.02,0,65.54,8.04,8.94,54,4.4
+P0334,R032,Canto da Neblina Sagrado,Japonesa,hot roll,1,38.37,0,40.37,4.2,8.23,49,4.7
+P0335,R032,Canto da Neblina Sagrado,Japonesa,combo 12 peças,2,36.0,0,73.5,5.32,8.36,32,4.5
+P0336,R032,Canto da Neblina Sagrado,Japonesa,yakisoba,2,26.31,0,56.62,8.27,7.45,59,4.0
+P0337,R032,Canto da Neblina Sagrado,Japonesa,combo 12 peças,3,29.08,3,86.24,5.31,8.36,32,4.2
+P0338,R032,Canto da Neblina Sagrado,Japonesa,temaki,2,39.44,2,79.88,7.59,8.61,73,3.8
+P0339,R032,Canto da Neblina Sagrado,Japonesa,temaki,1,31.64,0,35.64,6.25,7.62,62,4.4
+P0340,R032,Canto da Neblina Sagrado,Japonesa,yakisoba,3,37.32,0,113.96,8.05,7.92,40,3.8
+P0341,R033,Canto do Pastel Crocrante,Marmita,prato executivo,3,25.48,3,73.44,8.76,8.7,55,3.6
+P0342,R033,Canto do Pastel Crocrante,Marmita,prato executivo,1,23.95,0,25.45,7.44,7.28,52,3.6
+P0343,R033,Canto do Pastel Crocrante,Marmita,marmita fitness,2,15.84,5,26.68,6.27,6.44,65,3.3
+P0344,R033,Canto do Pastel Crocrante,Marmita,marmita M,2,23.55,0,47.1,9.01,8.77,84,2.5
+P0345,R033,Canto do Pastel Crocrante,Marmita,prato executivo,2,19.27,2,36.54,7.79,7.47,54,3.2
+P0346,R033,Canto do Pastel Crocrante,Marmita,marmita fitness,1,15.57,0,15.57,8.54,9.16,78,3.3
+P0347,R033,Canto do Pastel Crocrante,Marmita,prato executivo,4,22.57,2,88.28,10.34,8.07,57,3.2
+P0348,R033,Canto do Pastel Crocrante,Marmita,marmita P,2,26.77,0,56.54,8.52,5.32,66,3.5
+P0349,R033,Canto do Pastel Crocrante,Marmita,marmita P,2,16.02,3,29.04,9.59,9.73,70,3.1
+P0350,R033,Canto do Pastel Crocrante,Marmita,marmita P,1,21.51,0,21.51,9.35,9.83,57,3.2
+P0351,R034,Casa do Código Selvagem,Japonesa,temaki,3,58.57,2,177.71,8.07,5.62,63,3.3
+P0352,R034,Casa do Código Selvagem,Japonesa,hot roll,1,61.3,0,61.3,9.05,7.3,53,4.6
+P0353,R034,Casa do Código Selvagem,Japonesa,hot roll,2,44.46,0,90.92,8.45,6.19,75,3.7
+P0354,R034,Casa do Código Selvagem,Japonesa,yakisoba,2,41.24,0,84.48,8.2,5.41,48,3.8
+P0355,R034,Casa do Código Selvagem,Japonesa,yakisoba,4,67.66,3,267.64,8.27,6.58,56,3.4
+P0356,R034,Casa do Código Selvagem,Japonesa,hot roll,1,61.49,0,65.49,9.5,6.76,62,3.2
+P0357,R034,Casa do Código Selvagem,Japonesa,hot roll,1,70.49,0,70.49,7.68,5.19,54,3.0
+P0358,R034,Casa do Código Selvagem,Japonesa,yakisoba,1,42.79,3,41.29,8.38,6.43,64,2.9
+P0359,R034,Casa do Código Selvagem,Japonesa,temaki,1,40.24,2,38.24,9.73,5.64,62,3.5
+P0360,R034,Casa do Código Selvagem,Japonesa,hot roll,2,66.98,5,132.96,5.46,4.91,57,3.6
+P0361,R035,Casa do Gato Preto Nervoso,Açaí,açaí 300ml,1,30.26,0,33.26,7.14,10.23,52,3.6
+P0362,R035,Casa do Gato Preto Nervoso,Açaí,salada de frutas,3,25.32,0,75.96,6.65,7.45,52,3.5
+P0363,R035,Casa do Gato Preto Nervoso,Açaí,açaí 500ml,3,23.96,3,72.88,5.81,7.79,62,3.3
+P0364,R035,Casa do Gato Preto Nervoso,Açaí,vitamina,2,28.65,2,55.3,8.59,9.2,44,3.3
+P0365,R035,Casa do Gato Preto Nervoso,Açaí,salada de frutas,2,33.27,3,66.54,9.6,10.18,74,3.1
+P0366,R035,Casa do Gato Preto Nervoso,Açaí,açaí 300ml,2,36.7,3,70.4,6.19,9.04,37,3.9
+P0367,R035,Casa do Gato Preto Nervoso,Açaí,salada de frutas,1,24.28,5,21.28,6.64,9.76,40,3.8
+P0368,R035,Casa do Gato Preto Nervoso,Açaí,açaí 500ml,2,33.85,0,67.7,8.96,8.75,45,3.9
+P0369,R035,Casa do Gato Preto Nervoso,Açaí,salada de frutas,5,21.08,5,104.4,10.57,13.25,83,3.1
+P0370,R035,Casa do Gato Preto Nervoso,Açaí,vitamina,3,30.59,2,89.77,5.63,7.57,49,3.0
+P0371,R035,Casa do Gato Preto Nervoso,Açaí,açaí 300ml,1,25.52,0,25.52,6.5,7.82,49,3.9
+P0372,R035,Casa do Gato Preto Nervoso,Açaí,açaí 300ml,2,33.23,0,70.46,7.45,11.06,57,3.5
+P0373,R036,Empório da Goiabada Profundo,Café,croissant,2,26.09,3,49.18,7.63,14.79,119,3.1
+P0374,R036,Empório da Goiabada Profundo,Café,café coado,3,22.9,3,67.2,3.45,14.08,34,3.7
+P0375,R036,Empório da Goiabada Profundo,Café,cappuccino,1,22.64,2,20.64,5.42,13.29,32,3.9
+P0376,R036,Empório da Goiabada Profundo,Café,café coado,1,21.72,5,16.72,6.29,12.52,40,3.7
+P0377,R036,Empório da Goiabada Profundo,Café,croissant,2,28.07,5,55.14,4.3,11.13,37,4.1
+P0378,R036,Empório da Goiabada Profundo,Café,café coado,1,20.43,0,20.43,4.86,11.17,54,3.9
+P0379,R036,Empório da Goiabada Profundo,Café,croissant,3,19.22,0,59.16,7.96,16.03,38,3.6
+P0380,R036,Empório da Goiabada Profundo,Café,cappuccino,4,21.19,2,84.76,6.77,15.84,45,2.8
+P0381,R036,Empório da Goiabada Profundo,Café,cappuccino,3,20.36,0,64.08,6.18,13.52,37,3.5
+P0382,R036,Empório da Goiabada Profundo,Café,pão de queijo,1,19.86,5,16.36,7.26,13.6,43,3.8
+P0383,R036,Empório da Goiabada Profundo,Café,cappuccino,1,20.58,0,20.58,7.6,13.74,64,2.8
+P0384,R036,Empório da Goiabada Profundo,Café,pão de queijo,4,21.41,2,85.14,7.64,12.57,49,3.2
+P0385,R037,Empório da Panela Selvagem,Açaí,açaí 300ml,1,32.82,2,30.82,2.18,13.96,30,3.1
+P0386,R037,Empório da Panela Selvagem,Açaí,açaí 500ml,1,38.06,0,41.06,3.06,12.42,46,3.2
+P0387,R037,Empório da Panela Selvagem,Açaí,açaí 500ml,3,44.97,0,136.41,4.36,13.85,39,3.9
+P0388,R037,Empório da Panela Selvagem,Açaí,vitamina,2,25.99,0,55.98,1.72,11.81,18,4.8
+P0389,R037,Empório da Panela Selvagem,Açaí,açaí 300ml,1,45.99,3,44.99,2.07,11.04,33,4.5
+P0390,R037,Empório da Panela Selvagem,Açaí,açaí 300ml,1,29.33,3,26.33,1.28,9.67,19,4.2
+P0391,R037,Empório da Panela Selvagem,Açaí,vitamina,1,28.16,2,26.16,0.2,11.16,21,4.0
+P0392,R037,Empório da Panela Selvagem,Açaí,vitamina,1,39.97,3,36.97,1.55,11.79,28,3.9
+P0393,R037,Empório da Panela Selvagem,Açaí,salada de frutas,1,26.84,0,29.84,2.25,11.58,37,3.6
+P0394,R037,Empório da Panela Selvagem,Açaí,açaí 300ml,2,29.54,5,56.08,2.86,13.04,26,3.6
+P0395,R037,Empório da Panela Selvagem,Açaí,salada de frutas,1,39.77,0,39.77,4.27,0.37,39,3.8
+P0396,R037,Empório da Panela Selvagem,Açaí,vitamina,3,38.54,0,117.12,0.94,10.43,38,3.7
+P0397,R038,Empório da Pimenta Cósmico,Salgados,esfiha,1,37.17,0,37.17,7.17,10.34,47,3.1
+P0398,R038,Empório da Pimenta Cósmico,Salgados,coxinha,4,42.32,2,167.28,8.47,11.2,54,3.7
+P0399,R038,Empório da Pimenta Cósmico,Salgados,kibe,2,27.39,2,52.78,6.34,9.45,44,3.9
+P0400,R038,Empório da Pimenta Cósmico,Salgados,risole,2,42.44,0,88.88,7.37,11.14,54,3.4
+P0401,R038,Empório da Pimenta Cósmico,Salgados,enroladinho,2,29.97,5,54.94,6.47,13.29,43,4.4
+P0402,R038,Empório da Pimenta Cósmico,Salgados,enroladinho,3,39.68,3,118.04,5.69,10.66,46,4.3
+P0403,R038,Empório da Pimenta Cósmico,Salgados,kibe,2,28.68,0,57.36,7.08,9.49,51,3.6
+P0404,R038,Empório da Pimenta Cósmico,Salgados,kibe,1,24.03,2,22.03,4.75,9.67,45,3.6
+P0405,R038,Empório da Pimenta Cósmico,Salgados,enroladinho,4,32.34,2,127.36,8.14,10.32,71,3.2
+P0406,R039,Empório da Pimenta Supremo,Hambúrguer,x-bacon,5,20.98,0,107.9,5.18,10.97,43,4.0
+P0407,R039,Empório da Pimenta Supremo,Hambúrguer,smash duplo,2,31.54,2,61.08,7.72,11.6,69,3.1
+P0408,R039,Empório da Pimenta Supremo,Hambúrguer,batata frita,3,28.24,0,87.72,6.73,12.15,57,3.3
+P0409,R039,Empório da Pimenta Supremo,Hambúrguer,x-bacon,5,22.63,5,108.15,6.71,12.28,52,3.4
+P0410,R039,Empório da Pimenta Supremo,Hambúrguer,batata frita,2,18.61,5,32.22,6.58,13.61,58,3.1
+P0411,R039,Empório da Pimenta Supremo,Hambúrguer,x-bacon,2,26.44,0,55.88,7.56,11.93,70,3.4
+P0412,R039,Empório da Pimenta Supremo,Hambúrguer,smash duplo,1,25.66,2,27.66,9.05,13.14,58,3.7
+P0413,R039,Empório da Pimenta Supremo,Hambúrguer,smash duplo,1,30.09,0,32.09,7.34,11.62,62,3.2
+P0414,R039,Empório da Pimenta Supremo,Hambúrguer,smash duplo,1,21.27,3,18.27,7.95,13.59,57,4.1
+P0415,R039,Empório da Pimenta Supremo,Hambúrguer,x-burger,3,26.24,0,80.72,6.61,11.22,52,3.8
+P0416,R040,Empório do Abacaxi Clandestino,Doces,brigadeiro,3,48.7,5,141.1,5.7,11.75,48,4.3
+P0417,R040,Empório do Abacaxi Clandestino,Doces,brigadeiro,2,62.62,5,120.24,4.16,9.85,45,4.1
+P0418,R040,Empório do Abacaxi Clandestino,Doces,bolo de pote,3,42.43,0,128.79,4.37,10.86,32,4.6
+P0419,R040,Empório do Abacaxi Clandestino,Doces,pudim,3,46.39,3,136.17,6.59,13.59,59,3.8
+P0420,R040,Empório do Abacaxi Clandestino,Doces,pudim,1,52.4,0,52.4,3.8,8.74,42,3.3
+P0421,R040,Empório do Abacaxi Clandestino,Doces,brigadeiro,4,44.28,0,179.12,4.94,11.04,43,3.7
+P0422,R040,Empório do Abacaxi Clandestino,Doces,cookie,2,45.87,0,91.74,3.97,11.03,47,4.1
+P0423,R040,Empório do Abacaxi Clandestino,Doces,cookie,3,56.51,2,169.03,5.62,11.48,51,3.8
+P0424,R040,Empório do Abacaxi Clandestino,Doces,bolo de pote,2,58.3,0,119.6,6.79,10.83,47,3.8
+P0425,R040,Empório do Abacaxi Clandestino,Doces,pudim,3,41.59,0,124.77,3.73,13.0,46,4.1
+P0426,R041,Empório do Pêndulo Clandestino,Açaí,salada de frutas,4,42.3,0,169.2,5.24,8.83,65,3.3
+P0427,R041,Empório do Pêndulo Clandestino,Açaí,salada de frutas,4,40.23,2,162.92,2.17,6.73,29,3.9
+P0428,R041,Empório do Pêndulo Clandestino,Açaí,salada de frutas,2,51.02,0,105.04,3.47,7.86,39,3.5
+P0429,R041,Empório do Pêndulo Clandestino,Açaí,açaí 300ml,1,43.35,2,43.35,1.62,7.15,30,4.3
+P0430,R041,Empório do Pêndulo Clandestino,Açaí,açaí 500ml,2,36.71,0,75.42,2.65,6.11,27,4.0
+P0431,R041,Empório do Pêndulo Clandestino,Açaí,vitamina,3,52.56,5,156.68,3.58,3.16,42,3.6
+P0432,R041,Empório do Pêndulo Clandestino,Açaí,salada de frutas,3,37.55,0,115.65,2.0,5.36,29,3.8
+P0433,R042,Empório do Siri Supremo,Salgados,esfiha,4,15.25,3,58.0,3.86,8.23,18,4.3
+P0434,R042,Empório do Siri Supremo,Salgados,coxinha,2,11.32,0,22.64,4.16,7.99,52,2.5
+P0435,R042,Empório do Siri Supremo,Salgados,risole,4,15.51,0,65.04,4.25,9.59,32,3.2
+P0436,R042,Empório do Siri Supremo,Salgados,risole,3,13.34,0,42.02,6.73,8.57,44,3.7
+P0437,R042,Empório do Siri Supremo,Salgados,kibe,2,10.41,2,22.82,5.13,8.56,54,3.6
+P0438,R042,Empório do Siri Supremo,Salgados,risole,2,12.03,5,21.06,4.02,7.4,49,4.4
+P0439,R042,Empório do Siri Supremo,Salgados,kibe,1,10.69,2,10.69,5.85,10.54,40,3.6
+P0440,R042,Empório do Siri Supremo,Salgados,coxinha,1,10.67,5,5.67,2.7,7.89,46,2.9
+P0441,R042,Empório do Siri Supremo,Salgados,enroladinho,3,9.7,0,29.1,4.07,9.69,39,3.9
+P0442,R043,Estação da Panela Supremo,Salgados,esfiha,3,27.07,0,83.21,6.46,6.77,51,3.6
+P0443,R043,Estação da Panela Supremo,Salgados,enroladinho,5,23.98,0,119.9,8.19,3.98,52,3.8
+P0444,R043,Estação da Panela Supremo,Salgados,risole,2,19.87,5,34.74,6.08,5.48,39,3.6
+P0445,R043,Estação da Panela Supremo,Salgados,enroladinho,1,27.28,5,24.28,6.85,7.05,66,2.8
+P0446,R043,Estação da Panela Supremo,Salgados,coxinha,2,23.63,0,50.26,7.35,6.74,76,2.8
+P0447,R043,Estação da Panela Supremo,Salgados,esfiha,2,20.56,0,42.62,6.77,4.71,56,3.1
+P0448,R043,Estação da Panela Supremo,Salgados,esfiha,1,16.29,5,11.29,6.13,5.26,45,3.4
+P0449,R043,Estação da Panela Supremo,Salgados,enroladinho,1,22.16,0,22.16,5.71,5.73,56,3.4
+P0450,R043,Estação da Panela Supremo,Salgados,enroladinho,2,23.21,5,45.42,7.79,8.11,77,2.8
+P0451,R043,Estação da Panela Supremo,Salgados,coxinha,4,25.32,3,100.28,7.7,3.25,62,3.3
+P0452,R043,Estação da Panela Supremo,Salgados,enroladinho,3,21.55,2,64.65,6.36,6.7,48,3.1
+P0453,R044,Estação da Pimenta Solar,Marmita,marmita fitness,3,23.77,0,74.31,3.55,10.89,25,3.6
+P0454,R044,Estação da Pimenta Solar,Marmita,marmita fitness,2,18.92,0,37.84,2.88,11.79,44,3.3
+P0455,R044,Estação da Pimenta Solar,Marmita,marmita P,2,30.25,0,63.5,3.07,12.04,39,3.5
+P0456,R044,Estação da Pimenta Solar,Marmita,prato executivo,2,27.04,0,55.58,3.89,0.79,51,3.5
+P0457,R044,Estação da Pimenta Solar,Marmita,marmita P,1,27.93,3,28.93,1.34,10.62,11,4.6
+P0458,R044,Estação da Pimenta Solar,Marmita,marmita P,4,32.1,0,128.4,2.48,8.75,47,4.1
+P0459,R044,Estação da Pimenta Solar,Marmita,prato executivo,4,26.35,3,104.4,5.19,12.09,40,3.8
+P0460,R044,Estação da Pimenta Solar,Marmita,prato executivo,1,20.69,2,18.69,2.53,8.91,25,3.4
+P0461,R044,Estação da Pimenta Solar,Marmita,prato executivo,5,28.19,0,140.95,2.03,8.74,22,3.9
+P0462,R045,Estação do Dragão Sagrado,Pizza,pizza média,1,42.52,0,42.52,5.78,12.26,54,4.7
+P0463,R045,Estação do Dragão Sagrado,Pizza,fatia marguerita,1,49.56,0,49.56,8.38,12.49,50,3.5
+P0464,R045,Estação do Dragão Sagrado,Pizza,fatia de calabresa,1,29.82,0,32.82,7.2,12.41,40,5.0
+P0465,R045,Estação do Dragão Sagrado,Pizza,pizza brotinho,5,29.29,0,146.45,7.68,11.89,65,3.4
+P0466,R045,Estação do Dragão Sagrado,Pizza,fatia de calabresa,5,43.84,0,219.2,6.81,10.91,133,3.8
+P0467,R045,Estação do Dragão Sagrado,Pizza,pizza média,3,36.97,0,110.91,6.96,11.62,144,4.3
+P0468,R045,Estação do Dragão Sagrado,Pizza,pizza média,2,36.59,2,75.18,5.13,12.18,37,3.9
+P0469,R045,Estação do Dragão Sagrado,Pizza,fatia de calabresa,3,38.39,5,114.17,6.16,11.32,54,3.6
+P0470,R045,Estação do Dragão Sagrado,Pizza,fatia marguerita,1,34.65,0,36.15,6.15,8.68,48,4.1
+P0471,R045,Estação do Dragão Sagrado,Pizza,fatia marguerita,2,44.16,3,85.32,7.28,12.96,43,4.2
+P0472,R045,Estação do Dragão Sagrado,Pizza,pizza média,1,36.95,2,34.95,3.99,9.86,37,4.2
+P0473,R046,Estação do Trovão Profundo,Açaí,açaí 500ml,1,64.11,0,66.11,3.72,11.08,36,3.0
+P0474,R046,Estação do Trovão Profundo,Açaí,vitamina,1,60.59,2,58.59,3.64,7.88,36,3.5
+P0475,R046,Estação do Trovão Profundo,Açaí,vitamina,1,68.22,0,68.22,3.18,11.78,31,4.0
+P0476,R046,Estação do Trovão Profundo,Açaí,vitamina,3,69.87,0,209.61,2.15,9.28,24,3.4
+P0477,R046,Estação do Trovão Profundo,Açaí,açaí 300ml,2,58.31,3,116.62,5.39,10.22,45,2.8
+P0478,R046,Estação do Trovão Profundo,Açaí,açaí 500ml,1,49.53,3,48.03,4.63,12.76,40,3.7
+P0479,R046,Estação do Trovão Profundo,Açaí,vitamina,2,61.8,3,120.6,1.62,11.2,30,3.5
+P0480,R047,Estação do Vapor Clandestino,Pizza,pizza brotinho,1,24.77,0,26.77,2.0,6.25,17,4.5
+P0481,R047,Estação do Vapor Clandestino,Pizza,fatia de calabresa,3,33.85,5,96.55,0.25,3.58,19,4.2
+P0482,R047,Estação do Vapor Clandestino,Pizza,fatia de calabresa,5,26.16,3,127.8,2.99,6.58,31,4.1
+P0483,R047,Estação do Vapor Clandestino,Pizza,pizza média,1,32.37,0,34.37,0.22,4.49,8,4.4
+P0484,R047,Estação do Vapor Clandestino,Pizza,fatia marguerita,2,31.92,0,65.84,3.07,5.41,37,4.0
+P0485,R047,Estação do Vapor Clandestino,Pizza,fatia marguerita,3,26.5,5,74.5,0.2,2.67,19,3.9
+P0486,R047,Estação do Vapor Clandestino,Pizza,fatia de calabresa,1,25.24,2,24.74,5.8,5.48,39,4.1
+P0487,R047,Estação do Vapor Clandestino,Pizza,fatia marguerita,4,22.69,3,90.76,1.49,4.46,15,4.5
+P0488,R048,Lab do Acarajé Dourado,Café,pão de queijo,1,17.75,0,19.25,1.88,8.82,18,4.7
+P0489,R048,Lab do Acarajé Dourado,Café,croissant,5,24.19,0,123.95,1.97,9.21,40,4.6
+P0490,R048,Lab do Acarajé Dourado,Café,pão de queijo,3,17.76,0,57.28,3.66,10.93,25,4.9
+P0491,R048,Lab do Acarajé Dourado,Café,cappuccino,2,17.77,0,35.54,1.97,6.12,32,4.3
+P0492,R048,Lab do Acarajé Dourado,Café,cappuccino,1,17.73,0,19.23,4.17,9.72,48,4.4
+P0493,R048,Lab do Acarajé Dourado,Café,pão de queijo,1,17.1,3,18.1,4.26,9.15,30,4.1
+P0494,R048,Lab do Acarajé Dourado,Café,cappuccino,1,20.47,0,20.47,1.09,7.02,26,3.6
+P0495,R048,Lab do Acarajé Dourado,Café,cappuccino,2,24.29,3,49.58,2.09,8.9,23,3.5
+P0496,R048,Lab do Acarajé Dourado,Café,café coado,2,24.17,3,48.34,0.2,7.16,24,4.6
+P0497,R048,Lab do Acarajé Dourado,Café,café coado,1,17.42,0,21.42,3.22,10.21,27,4.7
+P0498,R049,Lab do Gato Preto Supremo,Doces,brigadeiro,4,47.85,0,191.4,2.99,12.22,38,5.0
+P0499,R049,Lab do Gato Preto Supremo,Doces,pudim,1,65.69,5,62.69,4.8,10.3,32,4.4
+P0500,R049,Lab do Gato Preto Supremo,Doces,cookie,3,49.38,0,150.14,4.2,9.32,29,4.5
+P0501,R049,Lab do Gato Preto Supremo,Doces,cookie,3,68.72,0,209.16,3.89,8.91,147,4.5
+P0502,R049,Lab do Gato Preto Supremo,Doces,pudim,3,55.75,0,171.25,3.75,11.19,36,4.2
+P0503,R049,Lab do Gato Preto Supremo,Doces,pudim,5,63.54,0,320.7,4.32,9.67,30,4.6
+P0504,R049,Lab do Gato Preto Supremo,Doces,cookie,1,52.41,0,52.41,2.29,8.92,23,4.3
+P0505,R050,Lab do Pão de Alho Nervoso,Salgados,coxinha,1,18.28,5,219.25,2.03,5.56,25,4.4
+P0506,R050,Lab do Pão de Alho Nervoso,Salgados,enroladinho,5,17.73,0,92.65,0.41,3.99,21,3.7
+P0507,R050,Lab do Pão de Alho Nervoso,Salgados,coxinha,3,15.74,3,44.22,0.2,2.6,17,4.2
+P0508,R050,Lab do Pão de Alho Nervoso,Salgados,risole,4,25.28,2,101.12,0.58,1.13,31,3.2
+P0509,R050,Lab do Pão de Alho Nervoso,Salgados,coxinha,1,22.0,0,22.0,1.74,1.04,34,4.2
+P0510,R050,Lab do Pão de Alho Nervoso,Salgados,esfiha,3,15.93,0,49.79,1.4,2.36,22,4.1
+P0511,R050,Lab do Pão de Alho Nervoso,Salgados,enroladinho,1,25.0,0,26.5,1.19,3.01,22,3.7
+P0512,R050,Lab do Pão de Alho Nervoso,Salgados,enroladinho,5,15.77,0,82.85,3.4,3.47,47,3.2
+P0513,R050,Lab do Pão de Alho Nervoso,Salgados,esfiha,1,15.82,0,15.82,3.23,4.65,33,3.7
+P0514,R050,Lab do Pão de Alho Nervoso,Salgados,coxinha,2,21.37,0,46.74,2.08,2.25,26,4.5
+P0515,R051,Lab do Trovão Honesto,Hambúrguer,x-bacon,1,7.99,0,11.99,5.53,5.95,51,4.6
+P0516,R051,Lab do Trovão Honesto,Hambúrguer,batata frita,3,10.85,0,35.55,3.91,5.68,48,3.4
+P0517,R051,Lab do Trovão Honesto,Hambúrguer,x-salada,1,10.72,0,10.72,4.78,4.79,35,3.5
+P0518,R051,Lab do Trovão Honesto,Hambúrguer,x-salada,1,7.72,0,7.72,5.33,5.21,30,3.9
+P0519,R051,Lab do Trovão Honesto,Hambúrguer,x-salada,4,8.8,3,32.2,7.03,8.44,43,4.1
+P0520,R051,Lab do Trovão Honesto,Hambúrguer,x-burger,2,8.47,3,13.94,5.07,6.34,49,3.2
+P0521,R051,Lab do Trovão Honesto,Hambúrguer,x-bacon,1,11.83,2,11.83,5.83,6.25,32,4.0
+P0522,R051,Lab do Trovão Honesto,Hambúrguer,x-burger,3,11.99,0,35.97,4.98,5.45,36,3.0
+P0523,R051,Lab do Trovão Honesto,Hambúrguer,x-salada,2,11.93,2,21.86,5.49,6.5,37,3.3
+P0524,R051,Lab do Trovão Honesto,Hambúrguer,smash duplo,4,8.91,2,35.14,4.8,6.18,48,4.0
+P0525,R051,Lab do Trovão Honesto,Hambúrguer,smash duplo,4,9.09,0,36.36,6.76,5.24,65,3.3
+P0526,R051,Lab do Trovão Honesto,Hambúrguer,x-salada,2,10.42,0,24.84,4.15,4.9,34,4.9
+P0527,R052,Moinho da Batata Supremo,Hambúrguer,batata frita,1,29.08,2,27.08,2.47,7.86,43,3.6
+P0528,R052,Moinho da Batata Supremo,Hambúrguer,x-burger,1,39.46,3,36.46,7.53,10.48,57,3.9
+P0529,R052,Moinho da Batata Supremo,Hambúrguer,batata frita,2,23.26,0,46.52,3.74,6.16,29,3.5
+P0530,R052,Moinho da Batata Supremo,Hambúrguer,smash duplo,3,37.58,0,115.74,8.02,9.41,56,3.6
+P0531,R052,Moinho da Batata Supremo,Hambúrguer,batata frita,2,39.01,5,76.02,3.81,7.59,24,4.1
+P0532,R052,Moinho da Batata Supremo,Hambúrguer,x-salada,1,32.21,5,27.21,6.13,8.19,47,3.1
+P0533,R052,Moinho da Batata Supremo,Hambúrguer,smash duplo,3,27.19,0,81.57,6.61,9.68,53,2.6
+P0534,R052,Moinho da Batata Supremo,Hambúrguer,x-burger,3,37.22,0,114.66,4.59,10.22,42,3.7
+P0535,R053,Moinho da Lua Cheia Secreto,Pizza,fatia de calabresa,1,29.3,0,29.3,4.19,8.86,62,3.6
+P0536,R053,Moinho da Lua Cheia Secreto,Pizza,pizza média,2,31.85,3,60.7,5.12,10.23,47,3.5
+P0537,R053,Moinho da Lua Cheia Secreto,Pizza,pizza brotinho,3,41.42,0,126.26,4.09,9.65,34,3.2
+P0538,R053,Moinho da Lua Cheia Secreto,Pizza,pizza brotinho,1,31.18,0,32.68,3.9,10.49,33,4.2
+P0539,R053,Moinho da Lua Cheia Secreto,Pizza,pizza média,2,47.36,3,91.72,4.21,10.07,26,3.6
+P0540,R053,Moinho da Lua Cheia Secreto,Pizza,fatia marguerita,3,46.92,2,140.76,5.77,9.88,42,3.6
+P0541,R053,Moinho da Lua Cheia Secreto,Pizza,fatia marguerita,2,43.24,5,83.48,2.89,9.83,9,3.9
+P0542,R053,Moinho da Lua Cheia Secreto,Pizza,fatia de calabresa,1,30.5,0,32.0,4.7,8.25,33,3.8
+P0543,R054,Moinho da Pimenta Secreto,Salgados,esfiha,1,37.61,3,37.61,6.24,8.01,47,3.2
+P0544,R054,Moinho da Pimenta Secreto,Salgados,kibe,2,60.93,5,118.86,4.08,6.52,46,3.6
+P0545,R054,Moinho da Pimenta Secreto,Salgados,kibe,1,47.75,0,47.75,5.99,7.07,31,3.8
+P0546,R054,Moinho da Pimenta Secreto,Salgados,esfiha,2,60.57,3,118.14,4.56,4.38,34,3.5
+P0547,R054,Moinho da Pimenta Secreto,Salgados,esfiha,1,48.18,0,48.18,6.02,6.73,33,3.8
+P0548,R054,Moinho da Pimenta Secreto,Salgados,risole,2,60.68,0,121.36,4.53,5.18,53,2.8
+P0549,R054,Moinho da Pimenta Secreto,Salgados,esfiha,1,55.8,0,55.8,4.42,5.34,53,3.5
+P0550,R055,Moinho do Abacaxi Supremo,Marmita,marmita M,2,10.57,0,23.14,4.12,10.21,35,3.6
+P0551,R055,Moinho do Abacaxi Supremo,Marmita,marmita P,1,10.71,0,12.21,2.6,7.87,30,4.6
+P0552,R055,Moinho do Abacaxi Supremo,Marmita,marmita P,1,9.26,3,8.26,1.68,7.76,37,3.8
+P0553,R055,Moinho do Abacaxi Supremo,Marmita,marmita P,1,10.93,3,10.93,3.03,9.95,10,4.4
+P0554,R055,Moinho do Abacaxi Supremo,Marmita,marmita P,3,9.28,3,24.84,2.97,5.26,51,3.2
+P0555,R055,Moinho do Abacaxi Supremo,Marmita,marmita M,1,9.32,0,11.32,4.56,8.73,40,3.8
+P0556,R055,Moinho do Abacaxi Supremo,Marmita,marmita P,2,7.61,5,11.72,5.37,9.21,54,3.5
+P0557,R055,Moinho do Abacaxi Supremo,Marmita,marmita M,1,10.9,0,14.9,5.28,8.83,58,3.0
+P0558,R056,Moinho do Caldinho Noturno,Pizza,pizza brotinho,2,45.28,2,88.56,2.78,10.59,47,3.2
+P0559,R056,Moinho do Caldinho Noturno,Pizza,fatia marguerita,1,50.09,5,45.09,5.96,14.38,64,3.0
+P0560,R056,Moinho do Caldinho Noturno,Pizza,pizza média,2,39.88,0,79.76,5.16,14.35,44,3.5
+P0561,R056,Moinho do Caldinho Noturno,Pizza,pizza média,5,37.97,0,189.85,4.57,14.52,46,3.7
+P0562,R056,Moinho do Caldinho Noturno,Pizza,pizza brotinho,2,39.21,5,74.92,2.77,11.71,14,4.6
+P0563,R056,Moinho do Caldinho Noturno,Pizza,pizza média,4,33.05,5,131.2,2.93,11.92,35,4.0
+P0564,R056,Moinho do Caldinho Noturno,Pizza,pizza média,1,39.08,0,41.08,2.53,10.91,29,3.7
+P0565,R056,Moinho do Caldinho Noturno,Pizza,fatia de calabresa,3,39.13,0,121.39,3.14,10.75,34,4.0
+P0566,R056,Moinho do Caldinho Noturno,Pizza,pizza brotinho,5,39.44,3,196.2,1.65,10.85,40,3.4
+P0567,R056,Moinho do Caldinho Noturno,Pizza,pizza brotinho,2,31.24,5,57.48,3.64,10.81,26,4.6
+P0568,R056,Moinho do Caldinho Noturno,Pizza,pizza brotinho,1,46.22,3,43.22,4.28,12.74,53,2.6
+P0569,R057,Moinho do Catupiry Maroto,Doces,bolo de pote,2,52.26,0,107.52,6.91,9.2,58,3.4
+P0570,R057,Moinho do Catupiry Maroto,Doces,brigadeiro,5,56.08,5,276.9,7.63,7.34,47,3.2
+P0571,R057,Moinho do Catupiry Maroto,Doces,cookie,2,71.7,0,143.4,6.28,8.22,47,3.1
+P0572,R057,Moinho do Catupiry Maroto,Doces,brigadeiro,2,48.11,2,95.72,6.98,7.71,60,2.6
+P0573,R057,Moinho do Catupiry Maroto,Doces,pudim,4,40.05,0,160.2,6.89,8.34,49,2.9
+P0574,R057,Moinho do Catupiry Maroto,Doces,pudim,3,63.23,0,193.69,7.73,6.52,34,4.0
+P0575,R057,Moinho do Catupiry Maroto,Doces,cookie,1,71.02,5,68.02,10.58,9.92,72,2.5
+P0576,R057,Moinho do Catupiry Maroto,Doces,bolo de pote,3,56.28,0,168.84,5.27,9.21,39,3.8
+P0577,R058,Moinho do Trovão Sincero,Pizza,pizza média,2,7.78,0,17.06,6.05,8.03,51,4.0
+P0578,R058,Moinho do Trovão Sincero,Pizza,fatia de calabresa,2,10.04,3,17.08,6.19,4.43,50,4.3
+P0579,R058,Moinho do Trovão Sincero,Pizza,pizza média,2,10.8,2,19.6,7.53,7.13,69,3.4
+P0580,R058,Moinho do Trovão Sincero,Pizza,fatia de calabresa,2,6.54,0,16.08,7.46,6.51,61,3.2
+P0581,R058,Moinho do Trovão Sincero,Pizza,pizza brotinho,5,8.25,0,42.75,8.7,7.74,69,2.9
+P0582,R058,Moinho do Trovão Sincero,Pizza,pizza média,1,6.33,0,6.33,6.26,6.52,62,3.3
+P0583,R058,Moinho do Trovão Sincero,Pizza,pizza média,2,9.21,2,16.42,5.7,7.31,43,3.7
+P0584,R058,Moinho do Trovão Sincero,Pizza,pizza média,2,10.9,5,16.8,8.25,6.14,55,3.9
+P0585,R058,Moinho do Trovão Sincero,Pizza,pizza brotinho,2,10.66,0,24.32,4.19,5.28,43,3.5
+P0586,R058,Moinho do Trovão Sincero,Pizza,fatia marguerita,1,9.58,5,6.08,7.2,7.86,53,3.4
+P0587,R059,Moinho do X-Tudo Clandestino,Salgados,enroladinho,1,47.22,0,47.22,2.15,11.18,27,3.9
+P0588,R059,Moinho do X-Tudo Clandestino,Salgados,kibe,1,39.18,2,39.18,1.55,10.63,32,3.5
+P0589,R059,Moinho do X-Tudo Clandestino,Salgados,esfiha,5,45.25,2,224.25,3.26,10.56,24,4.1
+P0590,R059,Moinho do X-Tudo Clandestino,Salgados,esfiha,4,46.1,3,182.9,3.86,9.68,44,3.8
+P0591,R059,Moinho do X-Tudo Clandestino,Salgados,coxinha,1,44.67,0,46.67,0.29,9.08,28,4.1
+P0592,R059,Moinho do X-Tudo Clandestino,Salgados,enroladinho,2,41.99,0,83.98,0.41,9.42,21,3.7
+P0593,R059,Moinho do X-Tudo Clandestino,Salgados,coxinha,2,33.65,2,65.3,3.5,11.76,37,3.8
+P0594,R059,Moinho do X-Tudo Clandestino,Salgados,kibe,4,45.02,2,178.08,2.97,9.98,26,4.4
+P0595,R059,Moinho do X-Tudo Clandestino,Salgados,coxinha,4,33.51,5,129.04,0.5,9.55,17,3.7
+P0596,R059,Moinho do X-Tudo Clandestino,Salgados,risole,5,32.81,5,162.05,0.2,11.87,22,3.9
+P0597,R060,Oficina do Abacaxi Crocrante,Açaí,salada de frutas,4,19.35,0,79.4,5.27,11.48,41,3.4
+P0598,R060,Oficina do Abacaxi Crocrante,Açaí,salada de frutas,4,12.88,2,51.52,5.44,13.81,39,2.1
+P0599,R060,Oficina do Abacaxi Crocrante,Açaí,vitamina,1,17.59,2,15.59,5.88,13.35,62,3.9
+P0600,R060,Oficina do Abacaxi Crocrante,Açaí,vitamina,5,12.34,3,58.7,1.72,10.43,34,4.1
+P0601,R060,Oficina do Abacaxi Crocrante,Açaí,salada de frutas,2,16.66,0,34.82,3.82,13.66,36,3.8
+P0602,R060,Oficina do Abacaxi Crocrante,Açaí,açaí 300ml,4,18.17,3,69.68,3.83,14.01,31,3.5
+P0603,R060,Oficina do Abacaxi Crocrante,Açaí,vitamina,5,14.79,0,73.95,1.13,11.03,34,4.5
+P0604,R060,Oficina do Abacaxi Crocrante,Açaí,vitamina,3,14.14,5,39.42,3.06,12.65,33,4.2
+P0605,R060,Oficina do Abacaxi Crocrante,Açaí,vitamina,4,18.5,0,74.0,2.58,12.34,29,4.3
+P0606,R060,Oficina do Abacaxi Crocrante,Açaí,salada de frutas,2,17.89,3,35.78,4.92,11.51,64,3.6
+P0607,R061,Oficina do Caldinho Crocrante,Marmita,marmita fitness,3,26.51,5,74.53,8.03,15.82,52,3.4
+P0608,R061,Oficina do Caldinho Crocrante,Marmita,marmita M,1,19.5,0,23.5,7.53,13.09,49,3.9
+P0609,R061,Oficina do Caldinho Crocrante,Marmita,prato executivo,2,27.54,0,57.08,5.29,12.31,48,3.9
+P0610,R061,Oficina do Caldinho Crocrante,Marmita,marmita M,3,31.97,2,93.91,8.69,13.0,69,3.0
+P0611,R061,Oficina do Caldinho Crocrante,Marmita,marmita M,2,19.8,2,37.6,5.73,11.57,31,4.2
+P0612,R061,Oficina do Caldinho Crocrante,Marmita,marmita M,3,19.7,0,59.1,6.81,14.38,38,4.2
+P0613,R061,Oficina do Caldinho Crocrante,Marmita,marmita fitness,5,19.14,0,98.7,8.09,13.07,52,3.3
+P0614,R061,Oficina do Caldinho Crocrante,Marmita,marmita P,2,32.29,0,64.58,7.42,15.7,43,3.9
+P0615,R061,Oficina do Caldinho Crocrante,Marmita,marmita fitness,1,28.84,0,28.84,6.36,14.56,29,3.5
+P0616,R061,Oficina do Caldinho Crocrante,Marmita,marmita fitness,5,23.0,0,119.0,8.54,11.91,62,3.3
+P0617,R062,Oficina do Cometa Nervoso,Salgados,enroladinho,1,35.52,0,37.52,7.69,7.43,57,3.8
+P0618,R062,Oficina do Cometa Nervoso,Salgados,risole,2,23.81,5,45.62,8.83,5.15,82,4.1
+P0619,R062,Oficina do Cometa Nervoso,Salgados,risole,1,27.7,3,24.7,7.12,7.87,57,4.4
+P0620,R062,Oficina do Cometa Nervoso,Salgados,risole,3,31.99,3,96.97,7.68,6.17,57,4.0
+P0621,R062,Oficina do Cometa Nervoso,Salgados,kibe,4,37.11,0,150.44,9.17,8.95,193,4.0
+P0622,R062,Oficina do Cometa Nervoso,Salgados,enroladinho,1,33.62,0,35.62,9.73,6.12,50,1.5
+P0623,R062,Oficina do Cometa Nervoso,Salgados,risole,3,36.19,0,108.57,7.92,6.81,48,4.1
+P0624,R062,Oficina do Cometa Nervoso,Salgados,esfiha,1,25.13,3,22.13,9.56,8.69,72,3.0
+P0625,R062,Oficina do Cometa Nervoso,Salgados,enroladinho,1,26.91,0,26.91,8.11,6.66,64,3.1
+P0626,R062,Oficina do Cometa Nervoso,Salgados,risole,2,30.56,3,61.12,8.81,7.53,76,3.0
+P0627,R062,Oficina do Cometa Nervoso,Salgados,kibe,1,22.08,2,20.08,7.09,6.35,54,4.3
+P0628,R063,Oficina do Tacho Clandestino,Marmita,marmita P,1,38.09,0,38.09,3.27,11.29,21,3.5
+P0629,R063,Oficina do Tacho Clandestino,Marmita,marmita P,2,36.73,2,75.46,5.44,13.61,38,4.0
+P0630,R063,Oficina do Tacho Clandestino,Marmita,marmita P,2,32.5,2,63.0,4.02,11.97,49,3.3
+P0631,R063,Oficina do Tacho Clandestino,Marmita,prato executivo,2,25.83,0,54.66,3.79,12.01,34,4.3
+P0632,R063,Oficina do Tacho Clandestino,Marmita,marmita M,3,34.6,2,101.8,6.05,11.06,37,4.4
+P0633,R063,Oficina do Tacho Clandestino,Marmita,marmita fitness,1,25.19,2,26.19,3.35,12.2,41,3.4
+P0634,R063,Oficina do Tacho Clandestino,Marmita,marmita P,2,32.93,0,65.86,4.6,11.14,29,4.4
+P0635,R063,Oficina do Tacho Clandestino,Marmita,marmita fitness,1,36.37,0,36.37,5.12,9.27,49,3.3
+P0636,R063,Oficina do Tacho Clandestino,Marmita,marmita M,3,26.17,0,80.51,2.3,10.64,22,3.4
+P0637,R064,Oficina do Tacho Sincero,Japonesa,temaki,1,8.25,5,5.25,4.37,12.62,37,3.8
+P0638,R064,Oficina do Tacho Sincero,Japonesa,yakisoba,4,8.81,0,35.24,3.84,12.11,44,3.5
+P0639,R064,Oficina do Tacho Sincero,Japonesa,combo 12 peças,4,5.64,0,22.56,6.25,15.15,55,3.3
+P0640,R064,Oficina do Tacho Sincero,Japonesa,temaki,2,7.84,0,17.18,6.24,13.71,39,3.7
+P0641,R064,Oficina do Tacho Sincero,Japonesa,temaki,5,7.71,3,35.55,4.89,12.65,53,3.5
+P0642,R064,Oficina do Tacho Sincero,Japonesa,combo 12 peças,5,9.85,5,44.25,4.8,12.64,172,4.1
+P0643,R064,Oficina do Tacho Sincero,Japonesa,yakisoba,3,7.58,2,20.74,4.99,10.61,35,3.7
+P0644,R064,Oficina do Tacho Sincero,Japonesa,temaki,2,5.75,5,6.5,6.39,14.81,44,3.4
+P0645,R064,Oficina do Tacho Sincero,Japonesa,yakisoba,1,7.5,0,7.5,5.11,13.17,52,3.7
+P0646,R064,Oficina do Tacho Sincero,Japonesa,hot roll,1,6.36,0,9.36,6.25,13.71,40,3.8
+P0647,R064,Oficina do Tacho Sincero,Japonesa,hot roll,1,9.45,5,4.45,4.5,12.63,43,3.5
+P0648,R064,Oficina do Tacho Sincero,Japonesa,yakisoba,3,7.18,2,19.54,4.51,13.34,45,3.6
+P0649,R065,Ponto da Batata Afiado,Japonesa,hot roll,1,49.07,0,51.07,3.41,8.13,38,3.3
+P0650,R065,Ponto da Batata Afiado,Japonesa,combo 12 peças,2,39.26,0,78.52,6.14,7.39,52,3.1
+P0651,R065,Ponto da Batata Afiado,Japonesa,hot roll,4,43.98,5,172.92,4.92,7.94,36,3.6
+P0652,R065,Ponto da Batata Afiado,Japonesa,combo 12 peças,2,46.35,0,92.7,5.51,8.31,39,3.4
+P0653,R065,Ponto da Batata Afiado,Japonesa,yakisoba,3,45.08,5,130.24,6.36,7.07,56,3.2
+P0654,R065,Ponto da Batata Afiado,Japonesa,combo 12 peças,2,42.99,2,83.98,7.42,8.32,53,2.9
+P0655,R065,Ponto da Batata Afiado,Japonesa,hot roll,4,30.88,0,123.52,4.03,8.64,33,3.7
+P0656,R066,Ponto da Lua Cheia Solar,Hambúrguer,x-burger,3,38.43,0,115.29,4.95,6.74,40,3.5
+P0657,R066,Ponto da Lua Cheia Solar,Hambúrguer,x-burger,1,50.45,3,51.45,4.63,4.19,47,3.8
+P0658,R066,Ponto da Lua Cheia Solar,Hambúrguer,smash duplo,2,42.53,3,82.06,0.35,2.46,31,4.0
+P0659,R066,Ponto da Lua Cheia Solar,Hambúrguer,smash duplo,4,42.77,3,168.08,5.13,0.79,45,4.1
+P0660,R066,Ponto da Lua Cheia Solar,Hambúrguer,batata frita,2,57.64,0,117.28,3.46,4.21,18,4.1
+P0661,R066,Ponto da Lua Cheia Solar,Hambúrguer,smash duplo,1,40.69,5,35.69,3.63,2.46,35,4.1
+P0662,R066,Ponto da Lua Cheia Solar,Hambúrguer,smash duplo,1,38.63,2,36.63,4.18,5.38,28,4.4
+P0663,R066,Ponto da Lua Cheia Solar,Hambúrguer,x-bacon,2,39.73,0,83.46,3.22,7.58,39,4.2
+P0664,R066,Ponto da Lua Cheia Solar,Hambúrguer,x-bacon,1,53.57,0,57.57,4.57,3.74,47,3.7
+P0665,R066,Ponto da Lua Cheia Solar,Hambúrguer,x-bacon,2,39.31,0,78.62,5.74,4.44,51,3.9
+P0666,R067,Ponto do Eclipse Clandestino,Marmita,prato executivo,2,9.08,0,19.66,5.26,11.63,36,3.7
+P0667,R067,Ponto do Eclipse Clandestino,Marmita,prato executivo,1,7.92,5,4.42,3.74,12.44,34,4.2
+P0668,R067,Ponto do Eclipse Clandestino,Marmita,prato executivo,2,7.95,0,17.9,2.77,11.87,8,5.0
+P0669,R067,Ponto do Eclipse Clandestino,Marmita,prato executivo,3,12.86,2,40.58,2.67,11.32,24,4.0
+P0670,R067,Ponto do Eclipse Clandestino,Marmita,marmita P,4,8.23,0,34.42,4.21,12.33,37,3.4
+P0671,R067,Ponto do Eclipse Clandestino,Marmita,prato executivo,1,10.64,0,12.64,3.01,9.16,25,3.4
+P0672,R067,Ponto do Eclipse Clandestino,Marmita,marmita M,1,12.51,0,15.51,3.74,12.91,47,3.1
+P0673,R067,Ponto do Eclipse Clandestino,Marmita,marmita fitness,2,10.24,2,21.48,1.69,10.1,24,3.8
+P0674,R068,Quintal da Coruja Maroto,Doces,pudim,1,10.23,0,13.23,0.34,8.35,22,4.2
+P0675,R068,Quintal da Coruja Maroto,Doces,pudim,1,16.23,5,11.23,2.71,8.05,32,4.1
+P0676,R068,Quintal da Coruja Maroto,Doces,bolo de pote,2,15.44,5,25.88,1.25,7.15,36,3.5
+P0677,R068,Quintal da Coruja Maroto,Doces,bolo de pote,4,10.63,0,46.52,2.08,8.15,21,4.2
+P0678,R068,Quintal da Coruja Maroto,Doces,pudim,2,10.27,3,20.54,0.91,9.75,31,3.9
+P0679,R068,Quintal da Coruja Maroto,Doces,bolo de pote,2,10.79,0,21.58,2.13,9.91,38,3.8
+P0680,R068,Quintal da Coruja Maroto,Doces,bolo de pote,4,16.43,0,68.72,3.74,9.8,43,4.1
+P0681,R068,Quintal da Coruja Maroto,Doces,cookie,1,15.5,5,12.0,1.48,7.39,22,3.6
+P0682,R068,Quintal da Coruja Maroto,Doces,pudim,1,12.5,0,12.5,3.57,10.7,32,4.0
+P0683,R068,Quintal da Coruja Maroto,Doces,bolo de pote,1,15.91,3,12.91,2.09,8.69,27,3.7
+P0684,R069,Quintal da Coxinha Afiado,Pizza,fatia marguerita,3,10.6,0,31.8,7.85,12.81,69,3.7
+P0685,R069,Quintal da Coxinha Afiado,Pizza,pizza brotinho,4,11.86,0,49.44,5.29,11.89,35,3.0
+P0686,R069,Quintal da Coxinha Afiado,Pizza,pizza brotinho,1,8.96,0,8.96,4.77,11.45,46,3.5
+P0687,R069,Quintal da Coxinha Afiado,Pizza,pizza média,2,14.03,0,28.06,5.39,11.63,36,4.1
+P0688,R069,Quintal da Coxinha Afiado,Pizza,fatia marguerita,3,11.21,0,33.63,5.52,13.54,27,3.5
+P0689,R069,Quintal da Coxinha Afiado,Pizza,fatia de calabresa,2,11.76,0,25.02,6.19,13.48,40,4.0
+P0690,R069,Quintal da Coxinha Afiado,Pizza,pizza média,2,9.57,3,18.14,5.51,11.67,56,3.7
+P0691,R069,Quintal da Coxinha Afiado,Pizza,fatia de calabresa,2,8.79,5,16.58,8.74,12.63,71,2.7
+P0692,R070,Quintal da Esquina Honesto,Japonesa,temaki,4,9.73,0,38.92,6.2,11.35,42,3.1
+P0693,R070,Quintal da Esquina Honesto,Japonesa,temaki,1,10.89,2,11.89,8.47,14.06,63,2.6
+P0694,R070,Quintal da Esquina Honesto,Japonesa,temaki,3,13.44,5,36.82,10.28,13.16,73,2.5
+P0695,R070,Quintal da Esquina Honesto,Japonesa,hot roll,2,11.1,0,22.2,7.78,13.54,62,2.7
+P0696,R070,Quintal da Esquina Honesto,Japonesa,hot roll,4,11.72,3,47.88,9.11,12.75,64,3.6
+P0697,R070,Quintal da Esquina Honesto,Japonesa,yakisoba,1,14.17,0,16.17,8.65,11.82,64,2.1
+P0698,R070,Quintal da Esquina Honesto,Japonesa,temaki,2,14.37,0,28.74,9.45,15.3,68,2.9
+P0699,R070,Quintal da Esquina Honesto,Japonesa,combo 12 peças,2,14.66,3,30.32,7.74,14.34,69,3.0
+P0700,R070,Quintal da Esquina Honesto,Japonesa,yakisoba,3,9.09,5,23.77,5.39,11.81,56,2.9
+P0701,R070,Quintal da Esquina Honesto,Japonesa,temaki,3,13.95,0,43.85,7.67,13.75,58,2.2
+P0702,R070,Quintal da Esquina Honesto,Japonesa,hot roll,5,8.49,2,41.95,7.69,14.13,54,2.5
+P0703,R070,Quintal da Esquina Honesto,Japonesa,combo 12 peças,2,14.16,5,23.32,8.06,13.38,48,3.0
+P0704,R071,Quintal do Cometa Selvagem,Pizza,pizza média,5,65.75,0,331.75,7.52,5.66,54,2.9
+P0705,R071,Quintal do Cometa Selvagem,Pizza,pizza média,1,60.89,3,59.39,7.4,6.39,57,3.7
+P0706,R071,Quintal do Cometa Selvagem,Pizza,pizza média,3,48.98,0,148.44,6.26,5.62,33,3.7
+P0707,R071,Quintal do Cometa Selvagem,Pizza,pizza brotinho,2,42.36,0,84.72,6.78,5.64,45,3.7
+P0708,R071,Quintal do Cometa Selvagem,Pizza,pizza média,3,48.26,0,146.28,9.24,7.22,59,3.8
+P0709,R071,Quintal do Cometa Selvagem,Pizza,fatia de calabresa,1,71.6,0,75.6,8.61,6.79,78,3.3
+P0710,R071,Quintal do Cometa Selvagem,Pizza,fatia de calabresa,3,61.02,2,184.06,7.1,5.21,73,3.1
+P0711,R071,Quintal do Cometa Selvagem,Pizza,pizza brotinho,1,47.1,2,45.1,5.18,3.26,50,4.1
+P0712,R071,Quintal do Cometa Selvagem,Pizza,fatia de calabresa,1,54.14,0,54.14,6.45,6.03,55,3.3
+P0713,R071,Quintal do Cometa Selvagem,Pizza,pizza brotinho,1,43.36,0,43.36,6.9,6.0,55,2.9
+P0714,R071,Quintal do Cometa Selvagem,Pizza,pizza brotinho,1,52.12,0,54.12,7.29,7.03,39,3.8
+P0715,R071,Quintal do Cometa Selvagem,Pizza,fatia de calabresa,4,64.45,0,261.8,6.2,5.33,114,3.3
+P0716,R072,Recanto da Moqueca Nervoso,Pizza,pizza brotinho,1,45.6,2,45.1,4.04,6.54,40,4.2
+P0717,R072,Recanto da Moqueca Nervoso,Pizza,fatia marguerita,4,44.13,0,178.52,4.43,5.19,47,3.8
+P0718,R072,Recanto da Moqueca Nervoso,Pizza,fatia marguerita,2,37.66,5,70.32,4.54,3.39,42,3.5
+P0719,R072,Recanto da Moqueca Nervoso,Pizza,pizza média,2,28.28,0,58.06,4.94,3.18,42,3.8
+P0720,R072,Recanto da Moqueca Nervoso,Pizza,fatia marguerita,3,39.81,0,119.43,3.3,4.27,25,4.2
+P0721,R072,Recanto da Moqueca Nervoso,Pizza,fatia marguerita,2,39.49,5,75.98,2.9,2.53,32,4.0
+P0722,R072,Recanto da Moqueca Nervoso,Pizza,pizza média,1,43.22,5,40.22,5.19,6.06,37,3.4
+P0723,R072,Recanto da Moqueca Nervoso,Pizza,pizza brotinho,2,43.23,0,86.46,4.11,5.56,31,4.6
+P0724,R072,Recanto da Moqueca Nervoso,Pizza,fatia marguerita,2,26.35,3,49.7,4.29,7.11,32,3.4
+P0725,R072,Recanto da Moqueca Nervoso,Pizza,pizza brotinho,4,40.54,5,161.16,4.43,6.53,46,3.7
+P0726,R072,Recanto da Moqueca Nervoso,Pizza,fatia de calabresa,1,35.9,0,35.9,5.57,5.27,47,3.8
+P0727,R072,Recanto da Moqueca Nervoso,Pizza,fatia marguerita,1,27.11,3,24.11,4.8,5.11,61,3.6
+P0728,R073,Recanto do Javali Selvagem,Doces,brigadeiro,2,7.57,5,10.14,1.17,0.98,37,3.7
+P0729,R073,Recanto do Javali Selvagem,Doces,cookie,1,9.31,2,7.31,4.05,5.94,29,3.7
+P0730,R073,Recanto do Javali Selvagem,Doces,cookie,3,8.03,0,24.09,1.93,5.38,27,3.5
+P0731,R073,Recanto do Javali Selvagem,Doces,bolo de pote,3,9.25,5,26.75,1.31,4.71,33,3.6
+P0732,R073,Recanto do Javali Selvagem,Doces,brigadeiro,4,8.76,0,35.04,0.44,3.06,17,3.5
+P0733,R073,Recanto do Javali Selvagem,Doces,pudim,1,7.11,3,4.11,2.5,2.56,13,3.8
+P0734,R073,Recanto do Javali Selvagem,Doces,pudim,3,9.7,2,28.6,0.84,4.44,20,3.6
+P0735,R073,Recanto do Javali Selvagem,Doces,cookie,4,6.77,3,25.58,2.37,7.46,36,3.5
+P0736,R074,Recanto do Sumiço Bruto,Salgados,esfiha,3,29.02,3,86.06,0.56,11.79,30,3.8
+P0737,R074,Recanto do Sumiço Bruto,Salgados,coxinha,1,46.91,5,41.91,1.57,10.62,24,3.7
+P0738,R074,Recanto do Sumiço Bruto,Salgados,enroladinho,3,36.84,0,112.52,1.72,10.36,22,3.8
+P0739,R074,Recanto do Sumiço Bruto,Salgados,kibe,4,46.9,3,186.1,2.67,11.0,30,3.4
+P0740,R074,Recanto do Sumiço Bruto,Salgados,kibe,2,33.62,0,67.24,2.37,12.72,51,3.5
+P0741,R074,Recanto do Sumiço Bruto,Salgados,enroladinho,4,48.97,3,195.88,3.79,11.8,46,4.0
+P0742,R074,Recanto do Sumiço Bruto,Salgados,risole,2,28.71,0,57.42,2.21,11.34,40,4.3
+P0743,R074,Recanto do Sumiço Bruto,Salgados,risole,1,48.96,0,48.96,4.64,13.56,49,4.0
+P0744,R074,Recanto do Sumiço Bruto,Salgados,risole,3,48.82,2,144.46,2.94,12.41,55,3.9
+P0745,R074,Recanto do Sumiço Bruto,Salgados,kibe,1,50.67,0,50.67,2.75,11.85,46,4.4
+P0746,R075,Recanto do Tacho Dourado,Pizza,fatia de calabresa,1,27.62,3,27.62,2.08,14.9,15,4.4
+P0747,R075,Recanto do Tacho Dourado,Pizza,fatia marguerita,1,21.89,5,18.39,1.05,10.5,20,4.2
+P0748,R075,Recanto do Tacho Dourado,Pizza,fatia de calabresa,1,19.42,0,19.42,0.6,9.66,41,4.1
+P0749,R075,Recanto do Tacho Dourado,Pizza,fatia marguerita,1,20.5,0,24.5,0.2,12.5,12,4.1
+P0750,R075,Recanto do Tacho Dourado,Pizza,pizza média,1,24.09,0,28.09,0.41,10.48,22,3.7
+P0751,R075,Recanto do Tacho Dourado,Pizza,pizza brotinho,3,20.07,0,62.21,1.64,12.06,15,4.2
+P0752,R075,Recanto do Tacho Dourado,Pizza,fatia de calabresa,1,16.21,2,14.21,0.94,12.78,24,3.8
+P0753,R075,Recanto do Tacho Dourado,Pizza,pizza média,5,22.96,2,115.8,1.47,11.37,21,4.2
+P0754,R075,Recanto do Tacho Dourado,Pizza,fatia de calabresa,1,23.93,0,25.93,0.92,10.04,19,3.7
+P0755,R075,Recanto do Tacho Dourado,Pizza,fatia marguerita,2,17.51,2,34.52,0.2,0.34,13,4.2
+P0756,R075,Recanto do Tacho Dourado,Pizza,pizza média,5,26.82,0,136.1,0.2,11.74,22,4.3
+P0757,R075,Recanto do Tacho Dourado,Pizza,fatia marguerita,1,26.83,0,26.83,0.2,10.03,11,4.6
+P0758,R076,Recanto do X-Tudo Selvagem,Marmita,marmita P,2,45.06,0,92.12,7.16,5.75,42,3.3
+P0759,R076,Recanto do X-Tudo Selvagem,Marmita,marmita P,1,55.53,5,53.53,4.07,6.01,32,4.1
+P0760,R076,Recanto do X-Tudo Selvagem,Marmita,marmita P,2,55.12,0,110.24,4.98,0.72,44,4.4
+P0761,R076,Recanto do X-Tudo Selvagem,Marmita,marmita fitness,4,64.45,5,252.8,5.24,7.18,62,3.3
+P0762,R076,Recanto do X-Tudo Selvagem,Marmita,marmita fitness,4,60.37,0,241.48,4.18,6.51,47,3.4
+P0763,R076,Recanto do X-Tudo Selvagem,Marmita,prato executivo,2,69.19,3,136.88,3.45,6.51,43,4.1
+P0764,R076,Recanto do X-Tudo Selvagem,Marmita,marmita fitness,2,43.34,2,87.68,4.83,5.54,60,3.6
+P0765,R076,Recanto do X-Tudo Selvagem,Marmita,prato executivo,2,49.22,5,93.44,5.27,8.09,39,3.7
+P0766,R076,Recanto do X-Tudo Selvagem,Marmita,prato executivo,2,52.46,5,102.92,6.09,3.88,47,3.6
+P0767,R076,Recanto do X-Tudo Selvagem,Marmita,marmita fitness,1,49.49,5,47.49,5.6,5.3,22,3.6
+P0768,R076,Recanto do X-Tudo Selvagem,Marmita,prato executivo,1,66.49,0,175.96,6.6,7.34,51,3.7
+P0769,R077,Sabor da Neblina Maroto,Doces,cookie,5,60.77,2,305.85,6.13,9.72,35,4.1
+P0770,R077,Sabor da Neblina Maroto,Doces,cookie,2,42.1,5,79.2,3.21,9.23,20,4.0
+P0771,R077,Sabor da Neblina Maroto,Doces,brigadeiro,1,61.74,2,62.74,3.15,11.42,31,3.5
+P0772,R077,Sabor da Neblina Maroto,Doces,pudim,4,41.44,3,165.76,4.0,10.04,39,4.3
+P0773,R077,Sabor da Neblina Maroto,Doces,pudim,3,69.43,0,208.29,4.96,11.39,31,3.7
+P0774,R077,Sabor da Neblina Maroto,Doces,pudim,2,40.16,5,76.82,3.43,9.02,30,4.6
+P0775,R077,Sabor da Neblina Maroto,Doces,cookie,1,56.34,0,58.34,3.99,10.62,30,4.6
+P0776,R077,Sabor da Neblina Maroto,Doces,brigadeiro,4,62.64,3,251.56,4.53,10.06,47,3.5
+P0777,R078,Sabor da Pimenta Elétrico,Japonesa,temaki,2,47.07,0,97.14,2.42,4.75,32,4.9
+P0778,R078,Sabor da Pimenta Elétrico,Japonesa,yakisoba,1,48.61,0,52.61,4.3,5.64,36,4.0
+P0779,R078,Sabor da Pimenta Elétrico,Japonesa,combo 12 peças,2,46.31,0,92.62,0.69,2.9,31,4.0
+P0780,R078,Sabor da Pimenta Elétrico,Japonesa,temaki,2,40.22,0,80.44,2.53,4.0,26,3.5
+P0781,R078,Sabor da Pimenta Elétrico,Japonesa,yakisoba,3,37.86,0,117.58,1.15,2.68,25,4.4
+P0782,R078,Sabor da Pimenta Elétrico,Japonesa,yakisoba,1,28.27,3,28.27,1.21,3.45,42,4.2
+P0783,R078,Sabor da Pimenta Elétrico,Japonesa,temaki,2,44.28,2,90.56,2.12,0.56,40,4.4
+P0784,R078,Sabor da Pimenta Elétrico,Japonesa,hot roll,2,29.75,0,61.0,3.25,4.95,31,3.7
+P0785,R079,Sabor do Caldinho Dourado,Açaí,vitamina,2,65.85,5,126.7,2.75,6.64,35,4.6
+P0786,R079,Sabor do Caldinho Dourado,Açaí,açaí 300ml,5,62.32,0,313.6,1.29,7.9,33,4.0
+P0787,R079,Sabor do Caldinho Dourado,Açaí,vitamina,4,41.54,3,163.16,4.05,9.77,39,3.5
+P0788,R079,Sabor do Caldinho Dourado,Açaí,açaí 500ml,4,52.41,0,212.64,2.72,8.6,35,3.9
+P0789,R079,Sabor do Caldinho Dourado,Açaí,açaí 500ml,1,54.02,5,52.02,2.87,7.56,38,4.0
+P0790,R079,Sabor do Caldinho Dourado,Açaí,açaí 300ml,3,60.59,0,183.77,1.98,9.7,29,4.1
+P0791,R079,Sabor do Caldinho Dourado,Açaí,açaí 300ml,3,46.38,3,138.14,4.67,10.57,38,4.0
+P0792,R079,Sabor do Caldinho Dourado,Açaí,vitamina,4,55.83,5,222.32,3.93,7.45,32,4.5
+P0793,R079,Sabor do Caldinho Dourado,Açaí,açaí 500ml,3,61.54,0,184.62,1.7,8.92,19,4.5
+P0794,R079,Sabor do Caldinho Dourado,Açaí,açaí 300ml,4,65.29,0,261.16,2.26,10.14,24,4.8
+P0795,R080,Sabor do Eclipse Solar,Pizza,fatia de calabresa,2,15.15,2,29.8,0.87,6.9,8,3.2
+P0796,R080,Sabor do Eclipse Solar,Pizza,fatia marguerita,2,13.71,0,27.42,1.83,8.05,31,3.3
+P0797,R080,Sabor do Eclipse Solar,Pizza,fatia marguerita,3,19.81,2,57.43,1.87,7.7,20,3.5
+P0798,R080,Sabor do Eclipse Solar,Pizza,pizza brotinho,2,13.11,0,26.22,0.65,6.87,8,3.3
+P0799,R080,Sabor do Eclipse Solar,Pizza,pizza brotinho,3,16.41,3,46.23,0.2,7.59,31,4.1
+P0800,R080,Sabor do Eclipse Solar,Pizza,fatia marguerita,3,21.04,0,63.12,1.33,8.57,30,3.4
+P0801,R080,Sabor do Eclipse Solar,Pizza,pizza média,1,20.28,2,18.28,0.2,8.56,14,3.8
+P0802,R080,Sabor do Eclipse Solar,Pizza,fatia de calabresa,3,14.76,2,42.28,4.46,8.8,44,3.5
+P0803,R081,Sabor do Pato Lunar Sagrado,Hambúrguer,batata frita,2,66.76,2,135.52,3.73,11.42,38,3.3
+P0804,R081,Sabor do Pato Lunar Sagrado,Hambúrguer,batata frita,4,45.58,3,180.82,7.67,12.61,57,3.3
+P0805,R081,Sabor do Pato Lunar Sagrado,Hambúrguer,x-bacon,2,48.52,0,101.04,5.51,13.97,38,3.2
+P0806,R081,Sabor do Pato Lunar Sagrado,Hambúrguer,x-bacon,3,40.34,5,120.02,3.49,8.71,28,4.3
+P0807,R081,Sabor do Pato Lunar Sagrado,Hambúrguer,smash duplo,3,72.35,5,212.05,6.17,13.44,51,3.3
+P0808,R081,Sabor do Pato Lunar Sagrado,Hambúrguer,batata frita,5,70.97,2,352.85,5.57,12.17,45,3.0
+P0809,R081,Sabor do Pato Lunar Sagrado,Hambúrguer,x-bacon,1,71.89,0,71.89,3.12,10.57,26,3.8
+P0810,R081,Sabor do Pato Lunar Sagrado,Hambúrguer,smash duplo,2,49.19,0,98.38,5.4,12.87,45,3.5
+P0811,R082,Sabor do Pão de Alho Sagrado,Doces,bolo de pote,2,14.33,3,28.66,7.57,14.25,51,3.3
+P0812,R082,Sabor do Pão de Alho Sagrado,Doces,brigadeiro,4,13.17,0,55.68,5.75,12.49,51,3.8
+P0813,R082,Sabor do Pão de Alho Sagrado,Doces,bolo de pote,3,13.21,5,36.13,9.41,17.21,63,2.9
+P0814,R082,Sabor do Pão de Alho Sagrado,Doces,bolo de pote,4,14.22,3,53.88,9.46,15.94,66,3.8
+P0815,R082,Sabor do Pão de Alho Sagrado,Doces,brigadeiro,3,11.23,0,35.69,7.76,13.28,60,3.1
+P0816,R082,Sabor do Pão de Alho Sagrado,Doces,brigadeiro,3,13.19,0,41.07,5.99,15.05,52,3.2
+P0817,R082,Sabor do Pão de Alho Sagrado,Doces,cookie,1,18.71,3,15.71,7.88,13.2,39,3.8
+P0818,R082,Sabor do Pão de Alho Sagrado,Doces,brigadeiro,2,13.76,0,27.52,5.76,12.15,56,3.8
+P0819,R082,Sabor do Pão de Alho Sagrado,Doces,cookie,2,18.02,0,38.04,6.02,14.58,41,3.1
+P0820,R082,Sabor do Pão de Alho Sagrado,Doces,pudim,3,11.33,5,31.99,5.18,13.11,45,3.9
+P0821,R082,Sabor do Pão de Alho Sagrado,Doces,bolo de pote,1,11.69,2,13.69,4.99,14.41,31,3.7
+P0822,R082,Sabor do Pão de Alho Sagrado,Doces,cookie,3,19.73,0,63.19,5.58,15.18,30,3.8
+P0823,R083,Sabor do Pêndulo Secreto,Salgados,kibe,4,9.55,0,38.2,7.2,11.95,56,3.2
+P0824,R083,Sabor do Pêndulo Secreto,Salgados,esfiha,1,10.67,2,8.67,7.23,9.69,47,3.4
+P0825,R083,Sabor do Pêndulo Secreto,Salgados,kibe,2,10.53,0,25.06,7.62,12.17,67,3.1
+P0826,R083,Sabor do Pêndulo Secreto,Salgados,esfiha,4,9.74,3,35.96,8.54,13.43,75,2.9
+P0827,R083,Sabor do Pêndulo Secreto,Salgados,coxinha,5,11.13,3,56.65,7.56,13.4,52,3.6
+P0828,R083,Sabor do Pêndulo Secreto,Salgados,kibe,4,9.4,0,40.6,6.48,14.31,44,3.3
+P0829,R083,Sabor do Pêndulo Secreto,Salgados,risole,2,8.9,0,17.8,6.59,10.62,61,3.1
+P0830,R083,Sabor do Pêndulo Secreto,Salgados,kibe,3,10.26,0,30.78,8.45,14.5,59,2.4
+P0831,R083,Sabor do Pêndulo Secreto,Salgados,esfiha,3,6.95,3,21.85,5.81,11.19,45,3.2
+P0832,R083,Sabor do Pêndulo Secreto,Salgados,enroladinho,2,9.1,0,18.2,9.06,13.36,74,3.2
+P0833,R084,Taverna da Coxinha Bruto,Café,cappuccino,1,14.05,5,11.05,6.15,12.68,48,4.3
+P0834,R084,Taverna da Coxinha Bruto,Café,pão de queijo,4,18.79,2,77.16,7.91,14.31,64,2.9
+P0835,R084,Taverna da Coxinha Bruto,Café,cappuccino,1,16.48,5,15.48,7.49,15.3,49,3.2
+P0836,R084,Taverna da Coxinha Bruto,Café,cappuccino,2,18.87,0,37.74,6.54,14.7,56,3.1
+P0837,R084,Taverna da Coxinha Bruto,Café,pão de queijo,1,13.82,0,13.82,9.46,15.53,74,2.4
+P0838,R084,Taverna da Coxinha Bruto,Café,cappuccino,2,15.34,0,32.68,6.83,13.57,48,3.3
+P0839,R084,Taverna da Coxinha Bruto,Café,café coado,2,17.84,2,35.68,7.78,14.7,62,3.1
+P0840,R084,Taverna da Coxinha Bruto,Café,café coado,3,14.23,0,42.69,7.22,14.65,45,3.6
+P0841,R084,Taverna da Coxinha Bruto,Café,café coado,2,14.94,3,26.88,5.54,12.97,74,3.3
+P0842,R084,Taverna da Coxinha Bruto,Café,cappuccino,4,16.94,3,64.76,7.72,13.5,64,3.2
+P0843,R084,Taverna da Coxinha Bruto,Café,pão de queijo,4,11.14,2,45.56,7.14,13.5,42,3.6
+P0844,R084,Taverna da Coxinha Bruto,Café,cappuccino,3,10.74,2,33.22,9.43,15.73,65,3.3
+P0845,R085,Taverna da Lua Cheia Solar,Japonesa,hot roll,3,46.61,0,139.83,1.35,4.18,19,4.1
+P0846,R085,Taverna da Lua Cheia Solar,Japonesa,temaki,3,50.22,2,148.66,1.8,5.16,33,3.4
+P0847,R085,Taverna da Lua Cheia Solar,Japonesa,yakisoba,1,63.5,0,65.5,2.22,4.77,22,3.3
+P0848,R085,Taverna da Lua Cheia Solar,Japonesa,yakisoba,3,44.29,0,136.87,1.53,5.78,31,3.4
+P0849,R085,Taverna da Lua Cheia Solar,Japonesa,combo 12 peças,4,52.51,0,212.04,1.1,6.79,26,3.3
+P0850,R085,Taverna da Lua Cheia Solar,Japonesa,hot roll,1,61.68,0,61.68,1.98,4.5,31,3.1
+P0851,R085,Taverna da Lua Cheia Solar,Japonesa,temaki,2,54.73,0,110.96,2.41,5.74,31,3.9
+P0852,R085,Taverna da Lua Cheia Solar,Japonesa,temaki,2,44.66,3,86.32,0.82,5.33,33,2.7
+P0853,R085,Taverna da Lua Cheia Solar,Japonesa,temaki,1,36.11,3,33.11,0.32,2.68,15,3.4
+P0854,R085,Taverna da Lua Cheia Solar,Japonesa,temaki,3,50.02,0,151.56,2.35,3.84,38,3.5
+P0855,R085,Taverna da Lua Cheia Solar,Japonesa,hot roll,3,54.4,0,165.2,0.77,5.3,35,3.4
+P0856,R085,Taverna da Lua Cheia Solar,Japonesa,temaki,2,45.56,0,91.12,3.02,7.4,31,3.6
+P0857,R086,Taverna do Javali Honesto,Japonesa,combo 12 peças,3,52.72,0,161.16,8.08,13.07,58,3.6
+P0858,R086,Taverna do Javali Honesto,Japonesa,combo 12 peças,1,44.15,0,44.15,11.09,14.75,64,3.3
+P0859,R086,Taverna do Javali Honesto,Japonesa,yakisoba,3,58.13,2,172.39,9.2,12.58,68,2.7
+P0860,R086,Taverna do Javali Honesto,Japonesa,temaki,5,56.12,3,277.6,6.68,13.61,58,3.8
+P0861,R086,Taverna do Javali Honesto,Japonesa,hot roll,2,37.81,0,77.12,10.08,13.96,78,3.1
+P0862,R086,Taverna do Javali Honesto,Japonesa,combo 12 peças,1,47.06,5,43.56,7.07,12.11,52,3.8
+P0863,R086,Taverna do Javali Honesto,Japonesa,temaki,5,52.51,0,262.55,7.86,11.53,57,3.6
+P0864,R086,Taverna do Javali Honesto,Japonesa,hot roll,2,40.49,0,80.98,9.16,12.74,69,4.1
+P0865,R086,Taverna do Javali Honesto,Japonesa,combo 12 peças,3,53.26,3,158.28,8.43,12.44,54,3.4
+P0866,R086,Taverna do Javali Honesto,Japonesa,combo 12 peças,1,63.2,0,64.7,9.78,13.17,66,3.6
+P0867,R087,Taverna do Pastel Solar,Café,pão de queijo,2,55.03,3,107.06,9.71,10.46,73,2.8
+P0868,R087,Taverna do Pastel Solar,Café,croissant,4,64.0,5,251.0,7.08,6.48,54,3.8
+P0869,R087,Taverna do Pastel Solar,Café,croissant,3,42.97,0,130.91,9.13,6.73,76,3.0
+P0870,R087,Taverna do Pastel Solar,Café,pão de queijo,2,62.57,2,126.14,8.13,8.08,65,2.9
+P0871,R087,Taverna do Pastel Solar,Café,croissant,1,52.5,3,49.5,7.68,5.34,69,3.2
+P0872,R087,Taverna do Pastel Solar,Café,café coado,1,62.69,0,66.69,7.15,5.77,61,3.2
+P0873,R087,Taverna do Pastel Solar,Café,pão de queijo,1,36.43,0,36.43,7.64,9.9,38,3.2
+P0874,R088,Taverna do Tacho Noturno,Marmita,marmita M,2,40.6,3,82.2,3.81,8.71,39,3.9
+P0875,R088,Taverna do Tacho Noturno,Marmita,marmita fitness,3,39.13,5,112.39,0.92,6.73,15,2.2
+P0876,R088,Taverna do Tacho Noturno,Marmita,marmita P,1,38.52,0,42.52,3.42,10.78,23,3.8
+P0877,R088,Taverna do Tacho Noturno,Marmita,marmita fitness,3,29.93,3,90.79,5.02,10.47,91,3.7
+P0878,R088,Taverna do Tacho Noturno,Marmita,marmita fitness,2,42.19,2,86.38,3.51,7.06,21,3.4
+P0879,R088,Taverna do Tacho Noturno,Marmita,marmita P,1,30.03,0,30.03,1.12,9.98,15,3.9
+P0880,R088,Taverna do Tacho Noturno,Marmita,marmita M,2,48.4,0,96.8,6.54,12.93,41,4.2
+P0881,R088,Taverna do Tacho Noturno,Marmita,marmita M,3,28.04,0,87.12,6.37,8.38,46,3.7
+P0882,R088,Taverna do Tacho Noturno,Marmita,marmita P,2,33.93,0,70.86,5.41,10.2,42,2.6
+P0883,R088,Taverna do Tacho Noturno,Marmita,marmita P,4,42.37,2,167.48,4.24,9.26,27,4.0
+P0884,R088,Taverna do Tacho Noturno,Marmita,prato executivo,1,44.47,0,45.97,2.97,10.63,43,3.6
+P0885,R088,Taverna do Tacho Noturno,Marmita,marmita P,2,38.72,0,77.44,5.34,10.82,34,2.8
+P0886,R089,Tempero da Fogueira Sincero,Açaí,vitamina,3,10.14,2,32.42,3.32,9.19,26,4.3
+P0887,R089,Tempero da Fogueira Sincero,Açaí,açaí 300ml,3,10.05,5,26.65,3.63,12.1,26,4.2
+P0888,R089,Tempero da Fogueira Sincero,Açaí,açaí 300ml,2,16.79,0,37.58,3.29,11.25,39,4.4
+P0889,R089,Tempero da Fogueira Sincero,Açaí,açaí 300ml,2,10.62,5,16.24,4.91,12.43,50,4.0
+P0890,R089,Tempero da Fogueira Sincero,Açaí,salada de frutas,1,9.63,2,11.63,3.8,10.31,57,3.4
+P0891,R089,Tempero da Fogueira Sincero,Açaí,açaí 500ml,1,11.39,3,11.39,5.99,11.54,36,4.1
+P0892,R089,Tempero da Fogueira Sincero,Açaí,açaí 500ml,5,15.0,3,72.0,3.62,11.46,41,3.6
+P0893,R089,Tempero da Fogueira Sincero,Açaí,açaí 300ml,1,12.61,3,9.61,4.5,12.85,44,4.1
+P0894,R089,Tempero da Fogueira Sincero,Açaí,vitamina,3,11.04,0,34.62,3.87,10.38,28,4.0
+P0895,R089,Tempero da Fogueira Sincero,Açaí,salada de frutas,2,16.12,0,33.74,6.06,13.14,29,4.5
+P0896,R089,Tempero da Fogueira Sincero,Açaí,vitamina,3,11.26,0,37.78,5.02,10.82,39,4.4
+P0897,R090,Tempero do Pato Lunar Noturno,Japonesa,hot roll,2,47.47,5,89.94,2.85,13.88,31,4.8
+P0898,R090,Tempero do Pato Lunar Noturno,Japonesa,combo 12 peças,4,58.96,0,237.84,3.27,9.73,29,4.7
+P0899,R090,Tempero do Pato Lunar Noturno,Japonesa,temaki,2,59.09,0,119.68,5.53,11.82,38,4.6
+P0900,R090,Tempero do Pato Lunar Noturno,Japonesa,temaki,4,51.26,0,209.04,4.8,12.03,48,4.3
+P0901,R090,Tempero do Pato Lunar Noturno,Japonesa,combo 12 peças,1,49.48,0,50.98,2.64,10.95,35,4.5
+P0902,R090,Tempero do Pato Lunar Noturno,Japonesa,combo 12 peças,3,58.16,5,169.48,4.55,10.68,47,4.0
+P0903,R090,Tempero do Pato Lunar Noturno,Japonesa,combo 12 peças,1,48.38,0,52.38,3.24,12.08,29,4.3
+P0904,R090,Tempero do Pato Lunar Noturno,Japonesa,temaki,3,37.91,0,117.73,4.72,10.36,24,5.0
+P0905,R090,Tempero do Pato Lunar Noturno,Japonesa,hot roll,2,44.94,2,87.88,3.57,11.33,45,4.6
+P0906,R090,Tempero do Pato Lunar Noturno,Japonesa,yakisoba,5,56.9,2,282.5,3.07,9.74,35,3.8
+P0907,R090,Tempero do Pato Lunar Noturno,Japonesa,yakisoba,1,45.13,2,43.13,5.86,11.93,43,4.1
+P0908,R091,Tempero do Pato Lunar Selvagem,Japonesa,temaki,4,16.22,0,64.88,2.42,6.92,30,3.8
+P0909,R091,Tempero do Pato Lunar Selvagem,Japonesa,temaki,3,16.28,0,51.84,0.59,6.65,30,3.9
+P0910,R091,Tempero do Pato Lunar Selvagem,Japonesa,temaki,1,11.46,0,11.46,0.88,4.33,29,4.1
+P0911,R091,Tempero do Pato Lunar Selvagem,Japonesa,combo 12 peças,1,14.26,0,15.76,0.46,7.68,17,4.6
+P0912,R091,Tempero do Pato Lunar Selvagem,Japonesa,yakisoba,2,15.03,5,27.06,3.12,5.41,17,3.9
+P0913,R091,Tempero do Pato Lunar Selvagem,Japonesa,hot roll,1,14.51,0,16.51,1.4,4.12,20,4.9
+P0914,R091,Tempero do Pato Lunar Selvagem,Japonesa,temaki,1,15.49,0,16.99,2.59,4.44,18,3.9
+P0915,R091,Tempero do Pato Lunar Selvagem,Japonesa,hot roll,3,17.83,0,53.49,1.03,1.63,10,4.1
+P0916,R092,Tempero do Pistache Crocrante,Salgados,risole,1,8.94,3,5.94,4.84,7.41,43,4.0
+P0917,R092,Tempero do Pistache Crocrante,Salgados,esfiha,1,8.72,0,11.72,5.19,7.09,38,3.5
+P0918,R092,Tempero do Pistache Crocrante,Salgados,coxinha,1,10.1,2,8.1,5.34,7.84,31,3.4
+P0919,R092,Tempero do Pistache Crocrante,Salgados,enroladinho,1,7.52,3,6.52,5.0,10.24,57,3.1
+P0920,R092,Tempero do Pistache Crocrante,Salgados,enroladinho,2,10.15,0,20.3,4.44,8.13,44,3.7
+P0921,R092,Tempero do Pistache Crocrante,Salgados,esfiha,2,6.27,0,12.54,3.52,6.61,28,3.7
+P0922,R092,Tempero do Pistache Crocrante,Salgados,risole,2,10.28,5,19.56,4.53,5.52,36,3.6
+P0923,R092,Tempero do Pistache Crocrante,Salgados,esfiha,2,6.95,3,13.9,5.79,9.48,65,3.0
+P0924,R092,Tempero do Pistache Crocrante,Salgados,kibe,2,8.86,0,17.72,2.52,9.11,29,4.0
+P0925,R092,Tempero do Pistache Crocrante,Salgados,coxinha,5,8.61,5,40.05,4.91,7.2,56,2.8
+P0926,R092,Tempero do Pistache Crocrante,Salgados,risole,3,7.36,0,25.08,4.36,6.95,56,3.4
+P0927,R093,Tempero do Vapor Crocrante,Japonesa,yakisoba,2,50.57,3,98.14,5.01,9.33,43,3.8
+P0928,R093,Tempero do Vapor Crocrante,Japonesa,combo 12 peças,1,40.05,3,41.05,4.6,11.78,57,3.5
+P0929,R093,Tempero do Vapor Crocrante,Japonesa,combo 12 peças,1,62.85,0,66.85,4.99,10.19,40,3.2
+P0930,R093,Tempero do Vapor Crocrante,Japonesa,hot roll,2,50.45,0,100.9,3.62,11.57,33,3.2
+P0931,R093,Tempero do Vapor Crocrante,Japonesa,combo 12 peças,2,59.32,0,120.64,5.42,12.82,55,3.2
+P0932,R093,Tempero do Vapor Crocrante,Japonesa,temaki,1,43.16,5,40.16,4.09,9.76,26,3.4
+P0933,R093,Tempero do Vapor Crocrante,Japonesa,hot roll,1,47.94,0,49.94,2.3,10.52,36,3.4
+P0934,R093,Tempero do Vapor Crocrante,Japonesa,hot roll,4,52.61,2,208.44,3.25,11.84,36,3.8
+P0935,R094,Vila da Fogueira Maroto,Doces,cookie,2,49.75,2,97.5,9.62,12.32,59,3.0
+P0936,R094,Vila da Fogueira Maroto,Doces,pudim,2,42.89,0,85.78,5.96,10.68,43,3.1
+P0937,R094,Vila da Fogueira Maroto,Doces,pudim,2,37.01,3,71.02,8.99,9.25,58,3.3
+P0938,R094,Vila da Fogueira Maroto,Doces,bolo de pote,2,49.22,0,100.44,9.13,10.46,56,3.3
+P0939,R094,Vila da Fogueira Maroto,Doces,pudim,1,40.42,3,37.42,9.35,10.61,74,3.6
+P0940,R094,Vila da Fogueira Maroto,Doces,pudim,2,32.27,3,65.54,8.43,8.25,51,2.5
+P0941,R094,Vila da Fogueira Maroto,Doces,bolo de pote,5,35.39,0,180.95,8.84,12.12,56,3.3
+P0942,R095,Vila da Garoa Honesto,Marmita,marmita P,2,27.65,5,50.3,0.87,0.3,17,3.9
+P0943,R095,Vila da Garoa Honesto,Marmita,marmita P,2,24.17,5,44.84,0.64,3.57,31,1.1
+P0944,R095,Vila da Garoa Honesto,Marmita,prato executivo,3,23.96,0,73.38,2.11,3.64,21,3.7
+P0945,R095,Vila da Garoa Honesto,Marmita,marmita P,1,39.47,0,173.48,2.23,5.44,34,3.4
+P0946,R095,Vila da Garoa Honesto,Marmita,marmita M,5,29.06,3,146.3,1.02,5.58,21,3.4
+P0947,R095,Vila da Garoa Honesto,Marmita,marmita P,2,28.41,0,59.82,2.6,7.12,46,3.6
+P0948,R095,Vila da Garoa Honesto,Marmita,marmita P,1,30.2,3,29.2,1.13,3.92,25,3.9
+P0949,R095,Vila da Garoa Honesto,Marmita,marmita M,1,37.04,5,32.04,1.5,5.3,19,3.6
+P0950,R095,Vila da Garoa Honesto,Marmita,marmita fitness,2,25.55,0,51.1,1.58,6.54,34,3.8
+P0951,R095,Vila da Garoa Honesto,Marmita,marmita P,3,35.69,3,107.07,0.98,3.97,24,4.3
+P0952,R096,Vila da Moqueca Clandestino,Açaí,salada de frutas,4,10.28,3,39.62,5.01,6.13,24,3.4
+P0953,R096,Vila da Moqueca Clandestino,Açaí,açaí 300ml,1,13.27,0,13.27,3.4,5.11,42,3.9
+P0954,R096,Vila da Moqueca Clandestino,Açaí,vitamina,3,17.09,0,53.27,5.32,6.79,28,4.0
+P0955,R096,Vila da Moqueca Clandestino,Açaí,vitamina,1,16.92,0,18.42,3.75,6.92,47,3.7
+P0956,R096,Vila da Moqueca Clandestino,Açaí,salada de frutas,3,13.04,2,40.12,4.03,6.32,38,3.8
+P0957,R096,Vila da Moqueca Clandestino,Açaí,açaí 500ml,1,11.21,2,9.21,0.9,5.5,176,3.8
+P0958,R096,Vila da Moqueca Clandestino,Açaí,açaí 500ml,2,17.53,2,33.06,7.28,6.09,39,3.5
+P0959,R096,Vila da Moqueca Clandestino,Açaí,açaí 500ml,2,12.96,0,27.42,2.31,3.66,118,4.3
+P0960,R096,Vila da Moqueca Clandestino,Açaí,vitamina,1,12.37,0,13.87,2.99,5.76,40,3.8
+P0961,R096,Vila da Moqueca Clandestino,Açaí,vitamina,2,12.34,0,26.18,4.29,7.78,29,3.2
+P0962,R097,Vila do Abacaxi Sincero,Hambúrguer,x-salada,1,52.47,5,47.47,2.06,3.46,44,3.6
+P0963,R097,Vila do Abacaxi Sincero,Hambúrguer,smash duplo,1,56.76,0,58.26,3.35,5.27,46,3.9
+P0964,R097,Vila do Abacaxi Sincero,Hambúrguer,batata frita,1,55.69,0,57.69,1.73,5.59,38,4.4
+P0965,R097,Vila do Abacaxi Sincero,Hambúrguer,x-burger,1,38.58,5,35.58,2.59,6.73,32,4.3
+P0966,R097,Vila do Abacaxi Sincero,Hambúrguer,batata frita,4,48.29,3,192.16,5.02,8.42,26,4.2
+P0967,R097,Vila do Abacaxi Sincero,Hambúrguer,x-bacon,5,55.21,2,274.05,3.86,6.52,38,4.2
+P0968,R097,Vila do Abacaxi Sincero,Hambúrguer,smash duplo,1,50.77,2,50.27,1.67,4.23,26,4.6
+P0969,R097,Vila do Abacaxi Sincero,Hambúrguer,batata frita,2,38.61,0,78.72,4.87,8.35,35,4.2
+P0970,R097,Vila do Abacaxi Sincero,Hambúrguer,x-burger,1,61.88,0,63.38,2.27,3.63,22,4.1
+P0971,R097,Vila do Abacaxi Sincero,Hambúrguer,x-bacon,3,53.57,2,160.71,1.95,5.96,22,4.9
+P0972,R098,Vila do Acarajé Crocrante,Açaí,açaí 500ml,3,8.38,0,29.14,0.91,4.44,19,3.8
+P0973,R098,Vila do Acarajé Crocrante,Açaí,açaí 500ml,4,8.95,2,33.8,3.1,3.63,40,3.9
+P0974,R098,Vila do Acarajé Crocrante,Açaí,vitamina,3,11.59,5,33.77,1.68,4.4,22,4.1
+P0975,R098,Vila do Acarajé Crocrante,Açaí,açaí 500ml,3,9.01,0,27.03,1.6,6.17,34,3.7
+P0976,R098,Vila do Acarajé Crocrante,Açaí,açaí 300ml,2,8.4,0,18.8,0.8,2.77,142,3.9
+P0977,R098,Vila do Acarajé Crocrante,Açaí,açaí 300ml,1,8.63,0,10.13,2.2,4.11,27,3.1
+P0978,R098,Vila do Acarajé Crocrante,Açaí,vitamina,2,12.0,0,25.5,3.68,7.51,23,3.1
+P0979,R098,Vila do Acarajé Crocrante,Açaí,açaí 500ml,1,9.5,2,7.5,1.33,6.53,28,3.8
+P0980,R098,Vila do Acarajé Crocrante,Açaí,açaí 300ml,3,7.78,5,18.34,0.91,5.68,19,3.4
+P0981,R098,Vila do Acarajé Crocrante,Açaí,açaí 300ml,3,8.97,5,25.91,1.84,7.28,34,3.8
+P0982,R098,Vila do Acarajé Crocrante,Açaí,vitamina,1,8.86,3,5.86,1.44,6.1,27,3.5
+P0983,R099,Vila do Javali Bruto,Marmita,prato executivo,3,12.2,0,38.6,5.88,7.34,57,2.9
+P0984,R099,Vila do Javali Bruto,Marmita,prato executivo,2,10.85,0,23.7,4.25,7.47,39,3.4
+P0985,R099,Vila do Javali Bruto,Marmita,prato executivo,1,12.21,5,7.21,2.78,8.41,8,4.0
+P0986,R099,Vila do Javali Bruto,Marmita,marmita P,1,15.46,5,11.96,5.0,7.84,51,3.4
+P0987,R099,Vila do Javali Bruto,Marmita,prato executivo,2,15.49,2,28.98,6.02,10.27,35,3.8
+P0988,R099,Vila do Javali Bruto,Marmita,prato executivo,1,15.42,0,19.42,5.51,6.5,39,3.6
+P0989,R099,Vila do Javali Bruto,Marmita,marmita fitness,2,12.55,5,22.1,5.05,9.25,45,3.2
+P0990,R100,Vila do Pastel Clandestino,Doces,bolo de pote,1,48.89,3,47.89,8.89,14.12,62,3.0
+P0991,R100,Vila do Pastel Clandestino,Doces,cookie,4,35.93,0,143.72,8.14,14.24,53,3.3
+P0992,R100,Vila do Pastel Clandestino,Doces,brigadeiro,5,41.43,0,211.15,7.65,15.72,53,3.2
+P0993,R100,Vila do Pastel Clandestino,Doces,brigadeiro,1,43.94,5,38.94,9.64,14.3,68,3.4
+P0994,R100,Vila do Pastel Clandestino,Doces,pudim,1,46.85,0,50.85,10.32,14.01,81,3.2
+P0995,R100,Vila do Pastel Clandestino,Doces,cookie,1,32.48,0,36.48,6.37,13.04,53,3.2
+P0996,R100,Vila do Pastel Clandestino,Doces,pudim,5,52.7,5,258.5,5.18,13.07,26,3.4
+P0997,R100,Vila do Pastel Clandestino,Doces,cookie,1,39.63,2,37.63,8.91,11.81,68,3.0
+P0998,R100,Vila do Pastel Clandestino,Doces,cookie,3,48.3,0,144.9,8.39,14.62,47,3.4
+P0999,R100,Vila do Pastel Clandestino,Doces,cookie,1,49.49,0,52.49,9.57,14.3,83,2.3
+P1000,R100,Vila do Pastel Clandestino,Doces,pudim,2,31.03,0,64.06,7.46,13.67,69,1.2
