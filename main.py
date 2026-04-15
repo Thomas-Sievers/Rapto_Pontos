@@ -43,6 +43,14 @@ def calcular_limite_superior_usando_iqr(dados):
     limite_superior = q3 + (iqr * 1.5)
     return limite_superior
 
+def classificar_coluna(dado, p25, p75):
+    if dado > p75:
+        return "Alta"
+    elif dado < p25:
+        return "Baixa"
+    else:
+        return "Média"
+
 #Phase 1 - A média mente para você?
 media_preco = df["preco_pedido"].mean()
 mediana_preco = np.average(df["preco_pedido"])
@@ -91,5 +99,52 @@ print(p25, p50, p75, p90, mediana_ponderada_preco)
 
 '''
 Perguntas:
-    1 - Já que a mediana ponderada dos preços usando a quantidade de itens como base da 75 (arredondando), que é exatamente o meio dos valores
+    1 - Depois de descobrir o valor do percentil 90 e da mediana ponderada usando a quantidade de itens como peso.
+    Podemos dizer que o que define um pedido caro de verdade é tudo que está acima do percentil 90 (+= 160.7)
+'''
+
+#Phase 5
+taxa_entrega_p25, taxa_entrega_p75 = np.percentile(df["taxa_entrega"], [25, 75])
+
+# the function apply goes through every register of a column and apply any function inside the parentheses
+df["classe_taxa"] = df["taxa_entrega"].apply(lambda x: classificar_coluna(x, taxa_entrega_p25, taxa_entrega_p75))
+
+#crosstab function cross two different columns and add one "point" to each class (alta, baixa, media)
+tabela_probabilidade_categoria = pd.crosstab(
+    df["categoria"],
+    df["classe_taxa"],
+    normalize='index' #this is to display as percentage (0.n)
+)
+
+#for better visualization
+#tabela_probabilidade_categoria = tabela_probabilidade_categoria * 100
+print(tabela_probabilidade_categoria.round(1))
+
+media_taxa_por_categoria = df.groupby('categoria')['taxa_entrega'].mean()
+print(media_taxa_por_categoria.round(2))
+
+tabela_retornos = pd.DataFrame()
+
+tabela_retornos['Retorno_Alta'] = media_taxa_por_categoria * 1.5
+tabela_retornos['Retorno_Media'] = media_taxa_por_categoria * 1.0
+tabela_retornos['Retorno_Baixa'] = media_taxa_por_categoria * 0.5
+print(tabela_retornos.round(2))
+
+
+ev_alta = tabela_probabilidade_categoria['Alta'] * tabela_retornos['Retorno_Alta']
+ev_media = tabela_probabilidade_categoria['Média'] * tabela_retornos['Retorno_Media']
+ev_baixa = tabela_probabilidade_categoria['Baixa'] * tabela_retornos['Retorno_Baixa']
+
+ev_final = ev_alta + ev_media + ev_baixa
+
+resultado_ev = pd.DataFrame({
+    'Média antiga': media_taxa_por_categoria,
+    "EV": ev_final
+})
+print(resultado_ev.round(2))
+
+'''
+Perguntas:
+    1 - O maior EV é do Café
+    2 - Sim, podemos ver que o café tem um EV muito maior que a média antiga comparando com as outras categorias. Mas ainda não temos certeza
 '''
