@@ -100,7 +100,7 @@ print(p25, p50, p75, p90, mediana_ponderada_preco)
 '''
 Perguntas:
     1 - Depois de descobrir o valor do percentil 90 e da mediana ponderada usando a quantidade de itens como peso.
-    Podemos dizer que o que define um pedido caro de verdade é tudo que está acima do percentil 90 (+= 160.7)
+    Podemos dizer que o que define um pedido caro de verdade é tudo que está acima do percentil 90 (~160.7)
 '''
 
 #Phase 5
@@ -147,4 +147,49 @@ print(resultado_ev.round(2))
 Perguntas:
     1 - O maior EV é do Café
     2 - Sim, podemos ver que o café tem um EV muito maior que a média antiga comparando com as outras categorias. Mas ainda não temos certeza
+'''
+
+#Phase 6 - Correlação
+
+correlacao_tempo_nota = df["tempo_entrega_min"].corr(df['nota_cliente'])
+correlacao_preco_nota = df["preco_pedido"].corr(df['nota_cliente'])
+correlacao_distancia_tempo = df['distancia_km'].corr(df["tempo_entrega_min"])
+
+print(correlacao_tempo_nota, correlacao_preco_nota, correlacao_distancia_tempo)
+
+'''
+Perguntas:
+    1 - Não, correlação não implica casualidade, só mostra matematicamente que esses números andam juntos, mas não necessáriamente um aumenta/abaixa com base no outro
+'''
+
+#Phase 7 - Encontre o fraudador
+
+investigacao = df.groupby('nome_estabelecimento').agg(
+    qtd_pedidos=('pedido_id', 'count'),
+    nota_media=('nota_cliente', 'mean'),
+    nota_variabilidade=('nota_cliente', 'std'),
+    preco_medio=('preco_pedido', 'mean'),
+    distancia_media=('distancia_km', 'mean'),
+    taxa_media=('taxa_entrega', 'mean'),
+    item_repetido=('item_principal', lambda x: x.mode()[0]),
+    qtd_item_repetido=('item_principal', lambda x: x.value_counts().iloc[0])
+)
+
+ranking_suspeitos = investigacao.sort_values(by='nota_media', ascending=False)
+
+pd.set_option('display.max_columns', None)
+print(ranking_suspeitos.head(5))
+
+'''
+Perguntas e conclusão
+ O império da coxinha é o fraudador. Podemos ver que ele tem a maior quantidade de pedidos (26), sabendo disso, o mais lógico
+ seria pensar que a variabilidade da nota deveria ser maior, pois mais clientes diferentes iriam avaliar o restaurante. 
+ Mas como podemos ver no data frame, ele tem a menor variabilidade de nota (~0.25) e a maior nota média (~4.7), ou seja, a maioria das 
+ avaliações são muito parecidas e sempre altas.
+ 
+ Também temos o fato que a distância média (~0.9) que os pedidos percorrem é muito pequena e tem a taxa muito baixa (~2.5). Além
+ de que o item principal foi pedido muitas vezes (9), comparando ao resto. 
+ 
+ Com essas informações podemos presumir que a maioria dos pedidos são feitos para pessoas conhecidas que moram pela região,
+ onde o mesmo pedido é repito várias vezes, aumentando a média de notas e ainda pagando pouco com as taxas de entrega
 '''
